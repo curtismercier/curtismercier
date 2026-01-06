@@ -1,0 +1,96 @@
+{
+  "theme": {
+    "background": "#0d1117",
+    "text_primary": "#ffffff",
+    "text_secondary": "#c9d1d9",
+    "text_muted": "#8b949e",
+    "card_width": 400,
+    "card_padding": 24
+  },
+  "status_colors": {
+    "In Progress": "#58A6FF",
+    "Active": "#10B981",
+    "Testing": "#8B5CF6",
+    "Refactoring": "#F59E0B",
+    "Paused": "#6e7681"
+  },
+  "cards": [
+    {
+      "id": "orchestration",
+      "icon": "⌘",
+      "title": "Multi-Agent Orchestration",
+      "description": "Dynamic frameworks where specialized agents adapt in real-time—stages shift, roles evolve, strategies emerge.",
+      "tagline": "Not static pipelines. Adaptive task forces.",
+      "status": {
+        "type": "animated",
+        "phases": [
+          {"text": "Planning", "color": "#F59E0B"},
+          {"text": "Building", "color": "#58A6FF"},
+          {"text": "Testing", "color": "#8B5CF6"},
+          {"text": "Shipping", "color": "#10B981"}
+        ],
+        "dot_cycles": 8
+      }
+    },
+    {
+      "id": "void",
+      "icon": "◯",
+      "title": "The Void",
+      "description": "A voice AI companion that lives within your codebase. Understands your project, answers questions, helps you build. Your code, conversational.",
+      "tagline": "Your project, embodied.",
+      "status": {
+        "type": "static",
+        "text": "In Progress",
+        "color": "#58A6FF"
+      }
+    },
+    {
+      "id": "platform",
+      "icon": "⊛",
+      "title": "AI-Native Platform Ecosystem",
+      "description": "Products that orbit, attract, and accelerate: rapid UI generation, cinematic video synthesis, autonomous marketing, VSL engines, multi-agent workstations.",
+      "tagline": "An ecosystem with its own gravitational field.",
+      "status": {
+        "type": "static",
+        "text": "In Progress",
+        "color": "#58A6FF"
+      }
+    },
+    {
+      "id": "compression",
+      "icon": "⟁",
+      "title": "Token Compression Research",
+      "description": "Up to 80% token reduction for code I/O. Session compaction achieves 2.5× information density at just 30% token overhead.",
+      "tagline": "Same output quality. 2× efficiency per token.",
+      "status": {
+        "type": "static",
+        "text": "Testing",
+        "color": "#8B5CF6"
+      }
+    },
+    {
+      "id": "tooling",
+      "icon": ">_",
+      "title": "Claude Code Tooling",
+      "description": "Session management with advanced search and improved compaction. Real-time statuslines with cost tracking. Memory systems for persistent context across projects.",
+      "tagline": "Developer tools for AI-native workflows.",
+      "status": {
+        "type": "static",
+        "text": "Refactoring",
+        "color": "#F59E0B"
+      }
+    },
+    {
+      "id": "autonomous",
+      "icon": "∞",
+      "title": "Autonomous Coding Systems",
+      "description": "Desktop apps and harnesses for AI-driven development. Git worktree isolation, self-validating QA loops, Linear integration. Systems that build while you sleep.",
+      "tagline": "Code that writes code.",
+      "status": {
+        "type": "static",
+        "text": "Active",
+        "color": "#10B981"
+      }
+    }
+  ]
+}

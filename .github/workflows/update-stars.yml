@@ -1,0 +1,110 @@
+name: Update Starred & Watched Repos
+
+on:
+  schedule:
+    # Run every 15 minutes
+    - cron: '*/15 * * * *'
+  workflow_dispatch:  # Manual trigger from GitHub UI
+
+jobs:
+  update-repos:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch repos and update README
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            let readme = fs.readFileSync('README.md', 'utf8');
+            let updated = false;
+
+            // --- STARRED REPOS (last 5) ---
+            const { data: starred } = await github.rest.activity.listReposStarredByUser({
+              username: 'curtismercier',
+              per_page: 5,
+              sort: 'created',
+              direction: 'desc'
+            });
+
+            const starList = starred.map(repo => {
+              const name = repo.full_name;
+              const url = repo.html_url;
+              const desc = repo.description ? ` - ${repo.description.substring(0, 60)}${repo.description.length > 60 ? '...' : ''}` : '';
+              return `- [${name}](${url})${desc}`;
+            }).join('\n');
+
+            const starStart = '<!-- STARS:START -->';
+            const starEnd = '<!-- STARS:END -->';
+            if (readme.includes(starStart)) {
+              const starRegex = new RegExp(`${starStart}[\\s\\S]*?${starEnd}`, 'g');
+              readme = readme.replace(starRegex, `${starStart}\n${starList}\n${starEnd}`);
+              updated = true;
+              console.log('Updated starred repos:', starred.map(r => r.full_name));
+            }
+
+            // --- WATCHED REPOS (all) ---
+            // Note: This requires a PAT with watching scope; GITHUB_TOKEN doesn't have it
+            // Wrapped in try-catch so starred repos still update if this fails
+            try {
+              let allWatched = [];
+              let page = 1;
+              while (true) {
+                const { data: watched } = await github.rest.activity.listWatchedReposForAuthenticatedUser({
+                  per_page: 100,
+                  page: page
+                });
+                if (watched.length === 0) break;
+                allWatched = allWatched.concat(watched);
+                page++;
+                if (watched.length < 100) break;
+              }
+
+              // Filter out own repos (only show repos by others)
+              const watchedOthers = allWatched.filter(repo => !repo.full_name.startsWith('curtismercier/'));
+
+              const watchList = watchedOthers.map(repo => {
+                const name = repo.full_name;
+                const url = repo.html_url;
+                const desc = repo.description ? ` - ${repo.description.substring(0, 60)}${repo.description.length > 60 ? '...' : ''}` : '';
+                return `- [${name}](${url})${desc}`;
+              }).join('\n');
+
+              const watchStart = '<!-- WATCHING:START -->';
+              const watchEnd = '<!-- WATCHING:END -->';
+              if (readme.includes(watchStart)) {
+                const watchRegex = new RegExp(`${watchStart}[\\s\\S]*?${watchEnd}`, 'g');
+                readme = readme.replace(watchRegex, `${watchStart}\n${watchList}\n${watchEnd}`);
+                updated = true;
+                console.log('Updated watched repos:', watchedOthers.length, 'repos');
+              }
+            } catch (err) {
+              console.log('Skipping watched repos (requires PAT with watching scope):', err.message);
+            }
+
+            if (updated) {
+              fs.writeFileSync('README.md', readme);
+            }
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update starred & watched repos"
+          git push
