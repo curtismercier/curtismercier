@@ -161,7 +161,7 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=curtismercier&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6e7681&sideNums=c9d1d9&background=0d1117" height="165"/>
+<img src="https://streak-stats.demolab.com?user=curtismercier&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6e7681&sideNums=c9d1d9&background=0d1117" height="165"/>
 
 </div>
 
@@ -176,13 +176,6 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 - [AutoMaker-Org/automaker](https://github.com/AutoMaker-Org/automaker)
 - [leonvanzyl/autocoder](https://github.com/leonvanzyl/autocoder)
 <!-- STARS:END -->
-
----
-
-## `// WATCHING`
-
-<!-- WATCHING:START -->
-<!-- WATCHING:END -->
 
 ---
 
