@@ -170,11 +170,11 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ## `// RECENTLY STARRED`
 
 <!-- STARS:START -->
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspac...
+- [lobehub/lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. ...
+- [blueman82/ai-counsel](https://github.com/blueman82/ai-counsel) - True deliberative consensus MCP server where AI models debat...
+- [joelfuller2016/ai-counsel](https://github.com/joelfuller2016/ai-counsel) - True deliberative consensus MCP server where AI models debat...
 - [nCine/nCine](https://github.com/nCine/nCine) - A cross-platform 2D game engine
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [darrenhinde/Opencode-skills-example](https://github.com/darrenhinde/Opencode-skills-example) - Opencode-skil
-- [AutoMaker-Org/automaker](https://github.com/AutoMaker-Org/automaker)
-- [leonvanzyl/autocoder](https://github.com/leonvanzyl/autocoder)
 <!-- STARS:END -->
 
 ---
