@@ -170,11 +170,11 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ## `// RECENTLY STARRED`
 
 <!-- STARS:START -->
-- [wddadk/Offensive-OSINT-Tools](https://github.com/wddadk/Offensive-OSINT-Tools) - OffSec OSINT Pentest/RedTeam Tools
-- [trickest/inventory](https://github.com/trickest/inventory) - Asset inventory of over 800 public bug bounty programs.
-- [bst04/CyberSources](https://github.com/bst04/CyberSources) - A curated list of cybersecurity tools and resources.
-- [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
-- [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
+- [nCine/nCine](https://github.com/nCine/nCine) - A cross-platform 2D game engine
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
+- [darrenhinde/Opencode-skills-example](https://github.com/darrenhinde/Opencode-skills-example) - Opencode-skil
+- [AutoMaker-Org/automaker](https://github.com/AutoMaker-Org/automaker)
+- [leonvanzyl/autocoder](https://github.com/leonvanzyl/autocoder)
 <!-- STARS:END -->
 
 ---
