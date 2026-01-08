@@ -170,11 +170,11 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ## `// RECENTLY STARRED`
 
 <!-- STARS:START -->
+- [BowTiedSwan/buildflow](https://github.com/BowTiedSwan/buildflow) - Turn interesting links into working code. Browser extension ...
 - [devtoolsd/awesome-cloud](https://github.com/devtoolsd/awesome-cloud) - A curated list of awesome cloud computing resources, service...
 - [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
-- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 <!-- STARS:END -->
 
 ---
