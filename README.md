@@ -170,11 +170,11 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ## `// RECENTLY STARRED`
 
 <!-- STARS:START -->
+- [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolo...
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 - [xdevplatform/xdk](https://github.com/xdevplatform/xdk) - SDK generator for the X APIs.
-- [covibes/zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at...
-- [darrenhinde/OpenAgents](https://github.com/darrenhinde/OpenAgents) - AI agent framework for plan-first development workflows with...
-- [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Co...
 <!-- STARS:END -->
 
 ---
