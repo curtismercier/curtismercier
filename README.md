@@ -170,11 +170,11 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ## `// RECENTLY STARRED`
 
 <!-- STARS:START -->
+- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [Prat011/free-cluely](https://github.com/Prat011/free-cluely) - Cluely - The invisible desktop assistant that provides real-...
+- [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - A curated list of awesome LLM and AI Agent Skills, resources...
 - [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)
 - [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
-- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolo...
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
-- [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 <!-- STARS:END -->
 
 ---
