@@ -170,11 +170,11 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ## `// RECENTLY STARRED`
 
 <!-- STARS:START -->
+- [clawdbot/clawd.bot](https://github.com/clawdbot/clawd.bot) - Website clawd.bot
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lo...
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 200+ Agentic Skills for Claude Co...
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [ITZ-ZAID/Telegram](https://github.com/ITZ-ZAID/Telegram) - Telegram Management Bot Most powerful more stable Telethon &...
-- [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API
-- [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 <!-- STARS:END -->
 
 ---
