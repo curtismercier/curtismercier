@@ -70,16 +70,19 @@ jobs:
                   break;
                 }
                 case 'PullRequestEvent': {
-                  const pr = event.payload.pull_request;
+                  const pr = event.payload.pull_request || {};
                   const action = event.payload.action;
                   if (action !== 'opened' && action !== 'closed') continue;
-                  const key = `pr-${repo}-${pr.number}`;
+                  const prNum = pr.number || event.payload.number;
+                  const key = `pr-${repo}-${prNum}`;
                   if (seen.has(key)) continue;
                   seen.add(key);
                   const merged = pr.merged ? 'Merged' : action === 'closed' ? 'Closed' : 'Opened';
                   const prIcon = pr.merged ? '🟣' : action === 'opened' ? '🔀' : '❌';
-                  line = `${prIcon} ${merged} PR [#${pr.number}](${pr.html_url}) on \`${repo}\``;
-                  line += ` — ${pr.title}`;
+                  const prUrl = pr.html_url || `https://github.com/${repo}/pull/${prNum}`;
+                  const prTitle = pr.title || '';
+                  line = `${prIcon} ${merged} PR [#${prNum}](${prUrl}) on \`${repo}\``;
+                  if (prTitle) line += ` — ${prTitle}`;
                   break;
                 }
                 case 'CreateEvent': {
