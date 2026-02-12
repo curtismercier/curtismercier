@@ -144,7 +144,7 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <!-- ACTIVITY:START -->
 💬 Commented on [#14598](https://github.com/openclaw/openclaw/pull/14598) in `openclaw/openclaw`
 
-🔀 Opened PR [#14598](undefined) on `openclaw/openclaw` — undefined
+🔀 Opened PR [#14598](https://github.com/openclaw/openclaw/pull/14598) on `openclaw/openclaw`
 
 🌿 Created branch `feat/per-agent-compaction` on `curtismercier/openclaw`
 
