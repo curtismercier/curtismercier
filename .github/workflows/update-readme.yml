@@ -58,6 +58,7 @@ jobs:
               switch (event.type) {
                 case 'PushEvent': {
                   const count = event.payload.commits?.length || 0;
+                  if (count === 0) continue;
                   const branch = (event.payload.ref || '').replace('refs/heads/', '');
                   const key = `push-${repo}-${branch}`;
                   if (seen.has(key)) continue;
@@ -111,7 +112,7 @@ jobs:
             }
 
             const activityBlock = activity.length > 0
-              ? activity.join('\n')
+              ? activity.join('\n\n')
               : '*Quiet week. Building in the dark.*';
 
             const actStart = '<!-- ACTIVITY:START -->';
@@ -125,7 +126,7 @@ jobs:
             // --- NOW SECTION ---
             try {
               const nowData = JSON.parse(fs.readFileSync('now.json', 'utf8'));
-              const nowLines = nowData.map(item => `${item.icon} ${item.text}`).join('\n');
+              const nowLines = nowData.map(item => `${item.icon} ${item.text}`).join('<br/>\n');
               const nowStart = '<!-- NOW:START -->';
               const nowEnd = '<!-- NOW:END -->';
               if (readme.includes(nowStart)) {
