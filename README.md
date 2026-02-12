@@ -142,11 +142,13 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ## `// RECENT ACTIVITY`
 
 <!-- ACTIVITY:START -->
-⚡ Pushed 0 commits to `curtismercier/curtismercier`
-⚡ Pushed 0 commits to `curtismercier/openclaw-mods`
 💬 Commented on [#14598](https://github.com/openclaw/openclaw/pull/14598) in `openclaw/openclaw`
-⚡ Pushed 0 commits to `curtismercier/openclaw` on `feat/per-agent-compaction`
+
 🔀 Opened PR [#14598](undefined) on `openclaw/openclaw` — undefined
+
+🌿 Created branch `feat/per-agent-compaction` on `curtismercier/openclaw`
+
+🌿 Created branch `main` on `curtismercier/openclaw-mods`
 <!-- ACTIVITY:END -->
 
 ---
