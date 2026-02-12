@@ -124,6 +124,29 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 
 ---
 
+## `// NOW`
+
+<div align="center">
+
+<!-- NOW:START -->
+🔭 Contributing upstream to [OpenClaw](https://github.com/openclaw/openclaw) — per-agent context management
+🧪 Token compression research — 80% reduction on code I/O
+🎙️ Voice AI interfaces — speech-to-code for codebases
+🌌 Building a constellation of AI agents that coordinate autonomously
+<!-- NOW:END -->
+
+</div>
+
+---
+
+## `// RECENT ACTIVITY`
+
+<!-- ACTIVITY:START -->
+*Quiet week. Building in the dark.*
+<!-- ACTIVITY:END -->
+
+---
+
 ## `// TECH STACK`
 
 <div align="center">
