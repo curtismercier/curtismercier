@@ -142,7 +142,11 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ## `// RECENT ACTIVITY`
 
 <!-- ACTIVITY:START -->
-*Quiet week. Building in the dark.*
+⚡ Pushed 0 commits to `curtismercier/curtismercier`
+⚡ Pushed 0 commits to `curtismercier/openclaw-mods`
+💬 Commented on [#14598](https://github.com/openclaw/openclaw/pull/14598) in `openclaw/openclaw`
+⚡ Pushed 0 commits to `curtismercier/openclaw` on `feat/per-agent-compaction`
+🔀 Opened PR [#14598](undefined) on `openclaw/openclaw` — undefined
 <!-- ACTIVITY:END -->
 
 ---
