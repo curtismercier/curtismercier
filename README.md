@@ -6,11 +6,6 @@
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Multi-agent+orchestration;Token+compression+research;Contributing+upstream+to+OpenClaw;An+ecosystem+with+its+own+gravity;Extensions%2C+not+tools)](https://git.io/typing-svg)
 
-<br/>
-
-<img src="assets/terminal-boot.gif" width="600"/>
-
-<br/>
 
 </div>
 
@@ -103,6 +98,10 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 
 <div align="center">
 <sub>More details when it launches.</sub>
+
+<br/><br/>
+
+<img src="assets/terminal-boot.gif" width="600"/>
 </div>
 
 ---
