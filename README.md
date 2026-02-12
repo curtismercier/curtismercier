@@ -1,17 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1a2e,100:0066ff&height=200&section=header&text=Curtis%20Mercier&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20that%20build%20systems&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+<img src="assets/header-banner.gif" width="100%"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Multi-agent+orchestration;Voice+AI+companions;Token+compression+research;Claude+Code+tooling;An+ecosystem+with+its+own+gravity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Multi-agent+orchestration;Token+compression+research;Contributing+upstream+to+OpenClaw;An+ecosystem+with+its+own+gravity;Extensions%2C+not+tools)](https://git.io/typing-svg)
 
-<br/>
-
-*Most people use AI as a tool.*
-*I treat it as an extension of cognition.*
-
-<br/>
 
 </div>
 
@@ -104,6 +98,10 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 
 <div align="center">
 <sub>More details when it launches.</sub>
+
+<br/><br/>
+
+<img src="assets/terminal-boot.gif" width="600"/>
 </div>
 
 ---
@@ -157,31 +155,7 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 
 ---
 
-## `// STATS`
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=curtismercier&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6e7681&sideNums=c9d1d9&background=0d1117" height="165"/>
-
-</div>
-
----
-
-## `// RECENTLY STARRED`
-
-<!-- STARS:START -->
-- [deepgram-devs/deepgram-demos-flux-streaming](https://github.com/deepgram-devs/deepgram-demos-flux-streaming)
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork and OpenClaw for Gemini...
-- [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Open-source Claude Code / Codex Web UI. Launch sessions, str...
-- [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  E...
-- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and ...
-<!-- STARS:END -->
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:1a1a2e,100:0a0a0f&height=100&section=footer" width="100%"/>
 
 *Stepping out of the shadows.*
 
