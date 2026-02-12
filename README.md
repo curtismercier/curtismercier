@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1a2e,100:0066ff&height=200&section=header&text=Curtis%20Mercier&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20that%20build%20systems&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Multi-agent+orchestration;Voice+AI+companions;Token+compression+research;Claude+Code+tooling;An+ecosystem+with+its+own+gravity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%24+openclaw+tui;%24+openclaw+agent+create+--model+opus;%24+git+worktree+add+.%2Ffeat-branch;%24+gh+pr+create+--repo+openclaw%2Fopenclaw;%24+nova%2C+deploy+the+constellation)](https://git.io/typing-svg)
 
 <br/>
 
