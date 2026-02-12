@@ -124,6 +124,35 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 
 ---
 
+## `// NOW`
+
+<div align="center">
+
+<!-- NOW:START -->
+🔭 Contributing upstream to [OpenClaw](https://github.com/openclaw/openclaw) — per-agent context management<br/>
+🧪 Token compression research — 80% reduction on code I/O<br/>
+🎙️ Voice AI interfaces — speech-to-code for codebases<br/>
+🌌 Building a constellation of AI agents that coordinate autonomously
+<!-- NOW:END -->
+
+</div>
+
+---
+
+## `// RECENT ACTIVITY`
+
+<!-- ACTIVITY:START -->
+💬 Commented on [#14598](https://github.com/openclaw/openclaw/pull/14598) in `openclaw/openclaw`
+
+🔀 Opened PR [#14598](https://github.com/openclaw/openclaw/pull/14598) on `openclaw/openclaw`
+
+🌿 Created branch `feat/per-agent-compaction` on `curtismercier/openclaw`
+
+🌿 Created branch `main` on `curtismercier/openclaw-mods`
+<!-- ACTIVITY:END -->
+
+---
+
 ## `// TECH STACK`
 
 <div align="center">
