@@ -1,5 +1,5 @@
 [
-  { "icon": "🔭", "text": "Contributing upstream to [OpenClaw](https://github.com/openclaw/openclaw) — per-agent context management" },
+  { "icon": "🔀", "text": "Submitting [per-agent compaction overrides](https://github.com/openclaw/openclaw) PR to OpenClaw upstream — 38 tests, clean 5-commit branch" },
   { "icon": "🧪", "text": "Token compression research — 80% reduction on code I/O" },
   { "icon": "🎙️", "text": "Voice AI interfaces — speech-to-code for codebases" },
   { "icon": "🌌", "text": "Building a constellation of AI agents that coordinate autonomously" }

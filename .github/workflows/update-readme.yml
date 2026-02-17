@@ -28,47 +28,24 @@ jobs:
             let readme = fs.readFileSync('README.md', 'utf8');
             let updated = false;
 
-            // --- RECENT ACTIVITY ---
+            // --- RECENT ACTIVITY (two tiers) ---
             const events = await github.rest.activity.listPublicEventsForUser({
               username: 'curtismercier',
               per_page: 100
             });
 
-            const icons = {
-              PushEvent: '⚡',
-              PullRequestEvent: '🔀',
-              CreateEvent: '📦',
-              IssuesEvent: '🐛',
-              IssueCommentEvent: '💬',
-              WatchEvent: '⭐',
-              ForkEvent: '🍴',
-              ReleaseEvent: '🚀'
-            };
-
             const seen = new Set();
-            const activity = [];
+            const highlights = [];  // PRs, releases, repo creation
+            const other = [];       // Comments, pushes, branches, stars, forks
 
             for (const event of events.data) {
-              if (activity.length >= 5) break;
+              if (highlights.length >= 5 && other.length >= 5) break;
 
               const repo = event.repo.name;
-              const icon = icons[event.type] || '📌';
               let line = '';
+              let isHighlight = false;
 
               switch (event.type) {
-                case 'PushEvent': {
-                  const count = event.payload.commits?.length || 0;
-                  if (count === 0) continue;
-                  const branch = (event.payload.ref || '').replace('refs/heads/', '');
-                  const key = `push-${repo}-${branch}`;
-                  if (seen.has(key)) continue;
-                  seen.add(key);
-                  line = `${icon} Pushed ${count} commit${count !== 1 ? 's' : ''} to \`${repo}\``;
-                  if (branch && branch !== 'main' && branch !== 'master') {
-                    line += ` on \`${branch}\``;
-                  }
-                  break;
-                }
                 case 'PullRequestEvent': {
                   const pr = event.payload.pull_request || {};
                   const action = event.payload.action;
@@ -81,8 +58,35 @@ jobs:
                   const prIcon = pr.merged ? '🟣' : action === 'opened' ? '🔀' : '❌';
                   const prUrl = pr.html_url || `https://github.com/${repo}/pull/${prNum}`;
                   const prTitle = pr.title || '';
+
+                  // Fetch detailed PR stats + title
+                  let statsStr = '';
+                  let detailTitle = prTitle;
+                  try {
+                    const [owner, repoName] = repo.split('/');
+                    const detail = await github.rest.pulls.get({ owner, repo: repoName, pull_number: prNum });
+                    const adds = detail.data.additions || 0;
+                    const dels = detail.data.deletions || 0;
+                    const files = detail.data.changed_files || 0;
+                    statsStr = ` \`+${adds} -${dels}\` across ${files} file${files !== 1 ? 's' : ''}`;
+                    if (!detailTitle) detailTitle = detail.data.title || '';
+                  } catch (e) { /* stats unavailable */ }
+
                   line = `${prIcon} ${merged} PR [#${prNum}](${prUrl}) on \`${repo}\``;
-                  if (prTitle) line += ` — ${prTitle}`;
+                  if (detailTitle) line += ` — **${detailTitle}**`;
+                  if (statsStr) line += statsStr;
+                  // Only opened and merged PRs are highlights; closed (not merged) goes to other
+                  isHighlight = action === 'opened' || pr.merged;
+                  break;
+                }
+                case 'ReleaseEvent': {
+                  const release = event.payload.release || {};
+                  const key = `release-${repo}-${release.tag_name}`;
+                  if (seen.has(key)) continue;
+                  seen.add(key);
+                  const relUrl = release.html_url || `https://github.com/${repo}/releases`;
+                  line = `🚀 Released [${release.tag_name || 'new version'}](${relUrl}) on \`${repo}\``;
+                  isHighlight = true;
                   break;
                 }
                 case 'CreateEvent': {
@@ -90,13 +94,31 @@ jobs:
                     const key = `create-${repo}`;
                     if (seen.has(key)) continue;
                     seen.add(key);
-                    line = `${icon} Created [\`${repo}\`](https://github.com/${repo})`;
+                    line = `📦 Created [\`${repo}\`](https://github.com/${repo})`;
+                    isHighlight = true;
                   } else if (event.payload.ref_type === 'branch') {
-                    const key = `branch-${repo}-${event.payload.ref}`;
+                    const branch = event.payload.ref || '';
+                    // Skip default branches — only feature branches are interesting
+                    if (branch === 'main' || branch === 'master') continue;
+                    const key = `branch-${repo}-${branch}`;
                     if (seen.has(key)) continue;
                     seen.add(key);
-                    line = `🌿 Created branch \`${event.payload.ref}\` on \`${repo}\``;
+                    line = `🌿 Created branch \`${branch}\` on \`${repo}\``;
+                    isHighlight = true;
                   } else continue;
+                  break;
+                }
+                case 'PushEvent': {
+                  const count = event.payload.commits?.length || 0;
+                  if (count === 0) continue;
+                  const branch = (event.payload.ref || '').replace('refs/heads/', '');
+                  const key = `push-${repo}-${branch}`;
+                  if (seen.has(key)) continue;
+                  seen.add(key);
+                  line = `⚡ Pushed ${count} commit${count !== 1 ? 's' : ''} to \`${repo}\``;
+                  if (branch && branch !== 'main' && branch !== 'master') {
+                    line += ` on \`${branch}\``;
+                  }
                   break;
                 }
                 case 'IssueCommentEvent': {
@@ -104,25 +126,67 @@ jobs:
                   const key = `comment-${repo}-${issue.number}`;
                   if (seen.has(key)) continue;
                   seen.add(key);
-                  line = `${icon} Commented on [#${issue.number}](${issue.html_url}) in \`${repo}\``;
+                  line = `💬 Commented on [#${issue.number}](${issue.html_url}) in \`${repo}\``;
+                  break;
+                }
+                case 'WatchEvent': {
+                  const key = `star-${repo}`;
+                  if (seen.has(key)) continue;
+                  seen.add(key);
+                  line = `⭐ Starred [\`${repo}\`](https://github.com/${repo})`;
+                  break;
+                }
+                case 'ForkEvent': {
+                  const key = `fork-${repo}`;
+                  if (seen.has(key)) continue;
+                  seen.add(key);
+                  line = `🍴 Forked [\`${repo}\`](https://github.com/${repo})`;
                   break;
                 }
                 default:
                   continue;
               }
 
-              if (line) activity.push(line);
+              if (!line) continue;
+
+              // Priority for sorting within "other": closed PRs > pushes > branches > comments > stars/forks
+              const priorityMap = { PullRequestEvent: 1, PushEvent: 2, CreateEvent: 3, IssueCommentEvent: 4, WatchEvent: 5, ForkEvent: 5 };
+              const priority = priorityMap[event.type] || 5;
+
+              if (isHighlight && highlights.length < 5) {
+                highlights.push(line);
+              } else if (!isHighlight && other.length < 8) {
+                other.push({ line, priority });
+              }
             }
 
-            const activityBlock = activity.length > 0
-              ? activity.join('\n\n')
-              : '*Quiet week. Building in the dark.*';
+            // Sort other by priority (most important first)
+            other.sort((a, b) => a.priority - b.priority);
+            const otherLines = other.map(o => o.line);
 
-            const actStart = '<!-- ACTIVITY:START -->';
-            const actEnd = '<!-- ACTIVITY:END -->';
-            if (readme.includes(actStart)) {
-              const re = new RegExp(`${actStart}[\\s\\S]*?${actEnd}`, 'g');
-              readme = readme.replace(re, `${actStart}\n${activityBlock}\n${actEnd}`);
+            // Build highlights block
+            const highlightsBlock = highlights.length > 0
+              ? highlights.join('\n\n')
+              : '*No major activity yet. Building in the dark.*';
+
+            const hlStart = '<!-- HIGHLIGHTS:START -->';
+            const hlEnd = '<!-- HIGHLIGHTS:END -->';
+            if (readme.includes(hlStart)) {
+              const re = new RegExp(`${hlStart}[\\s\\S]*?${hlEnd}`, 'g');
+              readme = readme.replace(re, `${hlStart}\n${highlightsBlock}\n${hlEnd}`);
+              updated = true;
+            }
+
+            // Build other activity block
+            const otherBlock = otherLines.length > 0
+              ? otherLines.join('\n\n')
+              : '*Quiet week.*';
+
+            const otStart = '<!-- OTHER:START -->';
+            const otEnd = '<!-- OTHER:END -->';
+            if (readme.includes(otStart)) {
+              const re = new RegExp(`${otStart}[\\s\\S]*?${otEnd}`, 'g');
+              readme = readme.replace(re, `${otStart}\n${otherBlock}\n${otEnd}`);
               updated = true;
             }
 
