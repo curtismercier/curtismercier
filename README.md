@@ -129,7 +129,7 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <div align="center">
 
 <!-- NOW:START -->
-🔭 Contributing upstream to [OpenClaw](https://github.com/openclaw/openclaw) — per-agent context management<br/>
+🔀 Submitting [per-agent compaction overrides](https://github.com/openclaw/openclaw) PR to OpenClaw upstream — 38 tests, clean 5-commit branch<br/>
 🧪 Token compression research — 80% reduction on code I/O<br/>
 🎙️ Voice AI interfaces — speech-to-code for codebases<br/>
 🌌 Building a constellation of AI agents that coordinate autonomously
@@ -141,15 +141,38 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 
 ## `// RECENT ACTIVITY`
 
-<!-- ACTIVITY:START -->
-💬 Commented on [#14598](https://github.com/openclaw/openclaw/pull/14598) in `openclaw/openclaw`
+### Highlights
 
-🔀 Opened PR [#14598](https://github.com/openclaw/openclaw/pull/14598) on `openclaw/openclaw`
+<!-- HIGHLIGHTS:START -->
+🔀 Opened PR [#19329](https://github.com/openclaw/openclaw/pull/19329) on `openclaw/openclaw` — **feat: add per-agent compaction and context pruning overrides** `+919 -329` across 13 files
+
+🌿 Created branch `feat/per-agent-compaction-v2` on `curtismercier/openclaw`
 
 🌿 Created branch `feat/per-agent-compaction` on `curtismercier/openclaw`
+<!-- HIGHLIGHTS:END -->
 
-🌿 Created branch `main` on `curtismercier/openclaw-mods`
-<!-- ACTIVITY:END -->
+<details>
+<summary>Other activity</summary>
+
+<!-- OTHER:START -->
+❌ Closed PR [#14598](https://github.com/openclaw/openclaw/pull/14598) on `openclaw/openclaw` — **feat: support per-agent compaction overrides in agents.list[]** `+504 -44` across 12 files
+
+💬 Commented on [#16546](https://github.com/openclaw/openclaw/issues/16546) in `openclaw/openclaw`
+
+💬 Commented on [#17735](https://github.com/openclaw/openclaw/issues/17735) in `openclaw/openclaw`
+
+💬 Commented on [#13736](https://github.com/openclaw/openclaw/issues/13736) in `openclaw/openclaw`
+
+💬 Commented on [#14598](https://github.com/openclaw/openclaw/pull/14598) in `openclaw/openclaw`
+
+⭐ Starred [`GoogleChrome/chrome-extensions-samples`](https://github.com/GoogleChrome/chrome-extensions-samples)
+
+⭐ Starred [`deepgram-devs/deepgram-demos-flux-streaming`](https://github.com/deepgram-devs/deepgram-demos-flux-streaming)
+
+⭐ Starred [`iOfficeAI/AionUi`](https://github.com/iOfficeAI/AionUi)
+<!-- OTHER:END -->
+
+</details>
 
 ---
 
