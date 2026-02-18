@@ -144,6 +144,10 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ### Highlights
 
 <!-- HIGHLIGHTS:START -->
+🔀 Opened PR [#19659](https://github.com/openclaw/openclaw/pull/19659) on `openclaw/openclaw` — **style: run oxfmt on files with formatting drift** `+4 -4` across 3 files
+
+🌿 Created branch `fix/oxfmt-drift` on `curtismercier/openclaw`
+
 🔀 Opened PR [#19329](https://github.com/openclaw/openclaw/pull/19329) on `openclaw/openclaw` — **feat: add per-agent compaction and context pruning overrides** `+919 -329` across 13 files
 
 🌿 Created branch `feat/per-agent-compaction-v2` on `curtismercier/openclaw`
@@ -155,7 +159,7 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
-❌ Closed PR [#14598](https://github.com/openclaw/openclaw/pull/14598) on `openclaw/openclaw` — **feat: support per-agent compaction overrides in agents.list[]** `+504 -44` across 12 files
+💬 Commented on [#19329](https://github.com/openclaw/openclaw/pull/19329) in `openclaw/openclaw`
 
 💬 Commented on [#16546](https://github.com/openclaw/openclaw/issues/16546) in `openclaw/openclaw`
 
