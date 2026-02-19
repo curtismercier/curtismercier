@@ -144,11 +144,9 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ### Highlights
 
 <!-- HIGHLIGHTS:START -->
-🔀 Opened PR [#19659](https://github.com/openclaw/openclaw/pull/19659) on `openclaw/openclaw` — **style: run oxfmt on files with formatting drift** `+4 -4` across 3 files
-
 🌿 Created branch `fix/oxfmt-drift` on `curtismercier/openclaw`
 
-🔀 Opened PR [#19329](https://github.com/openclaw/openclaw/pull/19329) on `openclaw/openclaw` — **feat: add per-agent compaction and context pruning overrides** `+919 -329` across 13 files
+🔀 Opened PR [#19329](https://github.com/openclaw/openclaw/pull/19329) on `openclaw/openclaw` — **feat: add per-agent compaction and context pruning overrides** `+922 -329` across 14 files
 
 🌿 Created branch `feat/per-agent-compaction-v2` on `curtismercier/openclaw`
 
@@ -159,21 +157,21 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
+❌ Closed PR [#19659](https://github.com/openclaw/openclaw/pull/19659) on `openclaw/openclaw` — **style: run oxfmt on files with formatting drift** `+4 -4` across 3 files
+
+💬 Commented on [#19659](https://github.com/openclaw/openclaw/pull/19659) in `openclaw/openclaw`
+
 💬 Commented on [#19329](https://github.com/openclaw/openclaw/pull/19329) in `openclaw/openclaw`
 
-💬 Commented on [#16546](https://github.com/openclaw/openclaw/issues/16546) in `openclaw/openclaw`
+⭐ Starred [`caddyserver/caddy`](https://github.com/caddyserver/caddy)
 
-💬 Commented on [#17735](https://github.com/openclaw/openclaw/issues/17735) in `openclaw/openclaw`
+⭐ Starred [`Richard-Weiss/lemmy`](https://github.com/Richard-Weiss/lemmy)
 
-💬 Commented on [#13736](https://github.com/openclaw/openclaw/issues/13736) in `openclaw/openclaw`
+⭐ Starred [`gumadeiras/roku-cli`](https://github.com/gumadeiras/roku-cli)
 
 ⭐ Starred [`mattingalls/Soundflower`](https://github.com/mattingalls/Soundflower)
 
 ⭐ Starred [`PostHog/posthog.com`](https://github.com/PostHog/posthog.com)
-
-⭐ Starred [`yoanbernabeu/grepai`](https://github.com/yoanbernabeu/grepai)
-
-⭐ Starred [`coolmanns/openclaw-memory-architecture`](https://github.com/coolmanns/openclaw-memory-architecture)
 <!-- OTHER:END -->
 
 </details>
