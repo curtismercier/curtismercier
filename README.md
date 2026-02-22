@@ -157,6 +157,8 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`dnakov/litter`](https://github.com/dnakov/litter)
+
 ⭐ Starred [`vinkius-labs/mcp-fusion`](https://github.com/vinkius-labs/mcp-fusion)
 
 ⭐ Starred [`Stremio/stremio-web`](https://github.com/Stremio/stremio-web)
@@ -170,8 +172,6 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ⭐ Starred [`troy/simpleoptout`](https://github.com/troy/simpleoptout)
 
 ⭐ Starred [`Jefronty/roku-tv-control`](https://github.com/Jefronty/roku-tv-control)
-
-⭐ Starred [`ericboehs/smartthings-roku-tv`](https://github.com/ericboehs/smartthings-roku-tv)
 <!-- OTHER:END -->
 
 </details>
