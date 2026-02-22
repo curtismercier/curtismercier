@@ -157,6 +157,10 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`microclaw/microclaw`](https://github.com/microclaw/microclaw)
+
+⭐ Starred [`qwibitai/nanoclaw`](https://github.com/qwibitai/nanoclaw)
+
 ⭐ Starred [`dnakov/litter`](https://github.com/dnakov/litter)
 
 ⭐ Starred [`vinkius-labs/mcp-fusion`](https://github.com/vinkius-labs/mcp-fusion)
@@ -168,10 +172,6 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ⭐ Starred [`hiddify/hiddify-app`](https://github.com/hiddify/hiddify-app)
 
 ⭐ Starred [`rokudev/scenegraph-master-sample`](https://github.com/rokudev/scenegraph-master-sample)
-
-⭐ Starred [`troy/simpleoptout`](https://github.com/troy/simpleoptout)
-
-⭐ Starred [`Jefronty/roku-tv-control`](https://github.com/Jefronty/roku-tv-control)
 <!-- OTHER:END -->
 
 </details>
