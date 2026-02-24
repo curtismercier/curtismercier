@@ -157,6 +157,8 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`sachaa/openbrowserclaw`](https://github.com/sachaa/openbrowserclaw)
+
 🍴 Forked [`direkturcrypto/polymarket-terminal`](https://github.com/direkturcrypto/polymarket-terminal)
 
 ⭐ Starred [`microclaw/microclaw`](https://github.com/microclaw/microclaw)
@@ -170,8 +172,6 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ⭐ Starred [`Stremio/stremio-web`](https://github.com/Stremio/stremio-web)
 
 ⭐ Starred [`vxcontrol/pentagi`](https://github.com/vxcontrol/pentagi)
-
-⭐ Starred [`hiddify/hiddify-app`](https://github.com/hiddify/hiddify-app)
 <!-- OTHER:END -->
 
 </details>
