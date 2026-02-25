@@ -157,6 +157,8 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`moltbook/api`](https://github.com/moltbook/api)
+
 ⭐ Starred [`sachaa/openbrowserclaw`](https://github.com/sachaa/openbrowserclaw)
 
 🍴 Forked [`direkturcrypto/polymarket-terminal`](https://github.com/direkturcrypto/polymarket-terminal)
@@ -170,8 +172,6 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ⭐ Starred [`vinkius-labs/mcp-fusion`](https://github.com/vinkius-labs/mcp-fusion)
 
 ⭐ Starred [`Stremio/stremio-web`](https://github.com/Stremio/stremio-web)
-
-⭐ Starred [`vxcontrol/pentagi`](https://github.com/vxcontrol/pentagi)
 <!-- OTHER:END -->
 
 </details>
