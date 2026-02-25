@@ -157,6 +157,10 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`get-convex/convex-backend`](https://github.com/get-convex/convex-backend)
+
+⭐ Starred [`TanStack/router`](https://github.com/TanStack/router)
+
 ⭐ Starred [`moltbook/api`](https://github.com/moltbook/api)
 
 ⭐ Starred [`sachaa/openbrowserclaw`](https://github.com/sachaa/openbrowserclaw)
@@ -168,10 +172,6 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ⭐ Starred [`qwibitai/nanoclaw`](https://github.com/qwibitai/nanoclaw)
 
 ⭐ Starred [`dnakov/litter`](https://github.com/dnakov/litter)
-
-⭐ Starred [`vinkius-labs/mcp-fusion`](https://github.com/vinkius-labs/mcp-fusion)
-
-⭐ Starred [`Stremio/stremio-web`](https://github.com/Stremio/stremio-web)
 <!-- OTHER:END -->
 
 </details>
