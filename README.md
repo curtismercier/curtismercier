@@ -157,6 +157,12 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`BoweyLou/obssync`](https://github.com/BoweyLou/obssync)
+
+⭐ Starred [`jorgecasariego/Manage-My-Reminders`](https://github.com/jorgecasariego/Manage-My-Reminders)
+
+⭐ Starred [`mattt/iMCP`](https://github.com/mattt/iMCP)
+
 ⭐ Starred [`jennyzzt/dgm`](https://github.com/jennyzzt/dgm)
 
 ⭐ Starred [`get-convex/convex-backend`](https://github.com/get-convex/convex-backend)
@@ -166,12 +172,6 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ⭐ Starred [`moltbook/api`](https://github.com/moltbook/api)
 
 ⭐ Starred [`sachaa/openbrowserclaw`](https://github.com/sachaa/openbrowserclaw)
-
-🍴 Forked [`direkturcrypto/polymarket-terminal`](https://github.com/direkturcrypto/polymarket-terminal)
-
-⭐ Starred [`microclaw/microclaw`](https://github.com/microclaw/microclaw)
-
-⭐ Starred [`qwibitai/nanoclaw`](https://github.com/qwibitai/nanoclaw)
 <!-- OTHER:END -->
 
 </details>
