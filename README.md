@@ -157,6 +157,8 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`jennyzzt/dgm`](https://github.com/jennyzzt/dgm)
+
 ⭐ Starred [`get-convex/convex-backend`](https://github.com/get-convex/convex-backend)
 
 ⭐ Starred [`TanStack/router`](https://github.com/TanStack/router)
@@ -170,8 +172,6 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ⭐ Starred [`microclaw/microclaw`](https://github.com/microclaw/microclaw)
 
 ⭐ Starred [`qwibitai/nanoclaw`](https://github.com/qwibitai/nanoclaw)
-
-⭐ Starred [`dnakov/litter`](https://github.com/dnakov/litter)
 <!-- OTHER:END -->
 
 </details>
