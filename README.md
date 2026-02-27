@@ -149,29 +149,27 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 🔀 Opened PR [#19329](https://github.com/openclaw/openclaw/pull/19329) on `openclaw/openclaw` — **feat: add per-agent compaction and context pruning overrides** `+922 -329` across 14 files
 
 🌿 Created branch `feat/per-agent-compaction-v2` on `curtismercier/openclaw`
-
-🌿 Created branch `feat/per-agent-compaction` on `curtismercier/openclaw`
 <!-- HIGHLIGHTS:END -->
 
 <details>
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
-🍴 Forked [`echandsome/Polymarket-betting-bot`](https://github.com/echandsome/Polymarket-betting-bot)
+⭐ Starred [`openclaw/lobster`](https://github.com/openclaw/lobster)
 
-⭐ Starred [`BoweyLou/obssync`](https://github.com/BoweyLou/obssync)
+⭐ Starred [`bloomedai/brain-cli`](https://github.com/bloomedai/brain-cli)
 
-⭐ Starred [`jorgecasariego/Manage-My-Reminders`](https://github.com/jorgecasariego/Manage-My-Reminders)
+⭐ Starred [`BlueBubblesApp/bluebubbles-server`](https://github.com/BlueBubblesApp/bluebubbles-server)
 
-⭐ Starred [`mattt/iMCP`](https://github.com/mattt/iMCP)
+⭐ Starred [`steipete/Trimmy`](https://github.com/steipete/Trimmy)
 
-⭐ Starred [`jennyzzt/dgm`](https://github.com/jennyzzt/dgm)
+⭐ Starred [`joshavant/clawbox`](https://github.com/joshavant/clawbox)
 
-⭐ Starred [`get-convex/convex-backend`](https://github.com/get-convex/convex-backend)
+🍴 Forked [`openclaw/acpx`](https://github.com/openclaw/acpx)
 
-⭐ Starred [`TanStack/router`](https://github.com/TanStack/router)
+⭐ Starred [`openclaw/acpx`](https://github.com/openclaw/acpx)
 
-⭐ Starred [`moltbook/api`](https://github.com/moltbook/api)
+⭐ Starred [`Martian-Engineering/lossless-claw`](https://github.com/Martian-Engineering/lossless-claw)
 <!-- OTHER:END -->
 
 </details>
