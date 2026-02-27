@@ -157,6 +157,8 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
+🍴 Forked [`echandsome/Polymarket-betting-bot`](https://github.com/echandsome/Polymarket-betting-bot)
+
 ⭐ Starred [`BoweyLou/obssync`](https://github.com/BoweyLou/obssync)
 
 ⭐ Starred [`jorgecasariego/Manage-My-Reminders`](https://github.com/jorgecasariego/Manage-My-Reminders)
@@ -170,8 +172,6 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ⭐ Starred [`TanStack/router`](https://github.com/TanStack/router)
 
 ⭐ Starred [`moltbook/api`](https://github.com/moltbook/api)
-
-⭐ Starred [`sachaa/openbrowserclaw`](https://github.com/sachaa/openbrowserclaw)
 <!-- OTHER:END -->
 
 </details>
