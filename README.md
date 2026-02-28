@@ -155,6 +155,8 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`rohunvora/x-research-skill`](https://github.com/rohunvora/x-research-skill)
+
 ⭐ Starred [`openclaw/lobster`](https://github.com/openclaw/lobster)
 
 ⭐ Starred [`bloomedai/brain-cli`](https://github.com/bloomedai/brain-cli)
@@ -168,8 +170,6 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 🍴 Forked [`openclaw/acpx`](https://github.com/openclaw/acpx)
 
 ⭐ Starred [`openclaw/acpx`](https://github.com/openclaw/acpx)
-
-⭐ Starred [`Martian-Engineering/lossless-claw`](https://github.com/Martian-Engineering/lossless-claw)
 <!-- OTHER:END -->
 
 </details>
