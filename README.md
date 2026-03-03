@@ -155,6 +155,8 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`KeygraphHQ/shannon`](https://github.com/KeygraphHQ/shannon)
+
 ⭐ Starred [`AgentWorkforce/relay`](https://github.com/AgentWorkforce/relay)
 
 ⭐ Starred [`rohunvora/x-research-skill`](https://github.com/rohunvora/x-research-skill)
@@ -168,8 +170,6 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ⭐ Starred [`steipete/Trimmy`](https://github.com/steipete/Trimmy)
 
 ⭐ Starred [`joshavant/clawbox`](https://github.com/joshavant/clawbox)
-
-🍴 Forked [`openclaw/acpx`](https://github.com/openclaw/acpx)
 <!-- OTHER:END -->
 
 </details>
