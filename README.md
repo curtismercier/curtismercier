@@ -155,6 +155,10 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`belastrittmatter/Framely`](https://github.com/belastrittmatter/Framely)
+
+⭐ Starred [`onlook-dev/onlook`](https://github.com/onlook-dev/onlook)
+
 ⭐ Starred [`KeygraphHQ/shannon`](https://github.com/KeygraphHQ/shannon)
 
 ⭐ Starred [`AgentWorkforce/relay`](https://github.com/AgentWorkforce/relay)
@@ -166,10 +170,6 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ⭐ Starred [`bloomedai/brain-cli`](https://github.com/bloomedai/brain-cli)
 
 ⭐ Starred [`BlueBubblesApp/bluebubbles-server`](https://github.com/BlueBubblesApp/bluebubbles-server)
-
-⭐ Starred [`steipete/Trimmy`](https://github.com/steipete/Trimmy)
-
-⭐ Starred [`joshavant/clawbox`](https://github.com/joshavant/clawbox)
 <!-- OTHER:END -->
 
 </details>
