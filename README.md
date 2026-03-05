@@ -155,6 +155,8 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`TryGhost/Ghost`](https://github.com/TryGhost/Ghost)
+
 ⭐ Starred [`public-apis/public-apis`](https://github.com/public-apis/public-apis)
 
 ⭐ Starred [`gsd-build/get-shit-done`](https://github.com/gsd-build/get-shit-done)
@@ -168,8 +170,6 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ⭐ Starred [`AgentWorkforce/relay`](https://github.com/AgentWorkforce/relay)
 
 ⭐ Starred [`rohunvora/x-research-skill`](https://github.com/rohunvora/x-research-skill)
-
-⭐ Starred [`openclaw/lobster`](https://github.com/openclaw/lobster)
 <!-- OTHER:END -->
 
 </details>
