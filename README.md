@@ -155,6 +155,10 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 <summary>Other activity</summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`stack-auth/multi-tenant-starter-template`](https://github.com/stack-auth/multi-tenant-starter-template)
+
+⭐ Starred [`ImBoB99/dokploy-nextjs-production-guide`](https://github.com/ImBoB99/dokploy-nextjs-production-guide)
+
 ⭐ Starred [`TryGhost/Ghost`](https://github.com/TryGhost/Ghost)
 
 ⭐ Starred [`public-apis/public-apis`](https://github.com/public-apis/public-apis)
@@ -166,10 +170,6 @@ Speech-to-Code voice interface for your codebase. Ask questions, get answers, bu
 ⭐ Starred [`onlook-dev/onlook`](https://github.com/onlook-dev/onlook)
 
 ⭐ Starred [`KeygraphHQ/shannon`](https://github.com/KeygraphHQ/shannon)
-
-⭐ Starred [`AgentWorkforce/relay`](https://github.com/AgentWorkforce/relay)
-
-⭐ Starred [`rohunvora/x-research-skill`](https://github.com/rohunvora/x-research-skill)
 <!-- OTHER:END -->
 
 </details>
