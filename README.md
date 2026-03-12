@@ -2,7 +2,7 @@
 
 <img src="assets/header-banner.gif" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=7C9CFF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=AI+agents+that+grow+memory;Protocol+specs+for+agent+architecture;Systems+that+build+systems;An+ecosystem+with+its+own+gravity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=7C9CFF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=AI+agents+that+grow+memory;AMP+%E2%80%94+Agent+Memory+Protocol;AMPS+%E2%80%94+Automations+%C2%B7+Muscles+%C2%B7+Protocols+%C2%B7+Skills;Systems+that+build+systems;An+ecosystem+with+its+own+gravity)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 Builder of AI agent infrastructure. I design protocols and systems that let agents remember, orient, and grow — without databases, embeddings, or cloud services. Just files.
 
-Currently building **[Soma](https://soma.gravicity.ai)** — an AI coding agent with self-growing memory — and publishing the protocol specs behind it as open standards.
+Currently building **[Soma](https://soma.gravicity.ai)** — an AI coding agent with self-growing memory — and publishing the protocol specs behind it as open standards. **[AMP](https://github.com/curtismercier/protocols/tree/main/amp)** is the memory engine. **[AMPS](https://github.com/curtismercier/protocols/tree/main/amps)** defines what agents remember: Automations, Muscles, Protocols, Skills.
 
 **[Gravicity](https://gravicity.ai)** is the ecosystem. Soma is the first product.
 
@@ -27,7 +27,7 @@ Currently building **[Soma](https://soma.gravicity.ai)** — an AI coding agent 
 ### 🌿 [Soma](https://soma.gravicity.ai)
 **AI coding agent with memory**
 
-Built on Pi. Identity discovery, session breathing, filesystem memory, protocol-driven behavior. The agent that grows around you.
+Built on Pi. Identity discovery, session breathing, filesystem memory, AMPS-driven behavior. The agent that grows around you.
 
 `TypeScript` · `MIT` · [meetsoma](https://github.com/meetsoma)
 
@@ -37,7 +37,7 @@ Built on Pi. Identity discovery, session breathing, filesystem memory, protocol-
 ### 📐 [Protocols](https://github.com/curtismercier/protocols)
 **Open specs for agent architecture**
 
-Five protocol specs born from building Soma — published as standalone standards anyone can implement:
+Six protocol specs born from building Soma — published as standalone standards anyone can implement:
 
 </td>
 </tr>
@@ -47,11 +47,12 @@ Five protocol specs born from building Soma — published as standalone standard
 
 | Protocol | What It Does |
 |----------|-------------|
-| **[AMP](https://github.com/curtismercier/protocols/tree/main/amp)** | Agent Memory Protocol — filesystem-based persistent memory with muscles, preloads, heat tracking |
+| **[AMP](https://github.com/curtismercier/protocols/tree/main/amp)** | Agent Memory Protocol — filesystem-based persistent memory with heat tracking, preloads, checkpoints |
+| **[AMPS](https://github.com/curtismercier/protocols/tree/main/amps)** | Agent Memory Protocol Stack — four content types: Automations, Muscles, Protocols, Skills |
 | **[ATLAS](https://github.com/curtismercier/protocols/tree/main/atlas)** | Architecture Truth Layered Across Stacks — living system maps that stay accurate |
 | **[Breath Cycle](https://github.com/curtismercier/protocols/tree/main/breath-cycle)** | Session lifecycle: inhale → process → exhale → rest. Context depletion as design, not bug |
-| **[Three-Layer Model](https://github.com/curtismercier/protocols/tree/main/three-layer)** | Extensions (code) + Skills (knowledge) + Rituals (workflows) — separation of agent capabilities |
 | **[Identity System](https://github.com/curtismercier/protocols/tree/main/identity)** | Contextual identity discovery — agents that know who they are based on where they are |
+| **[Git Identity](https://github.com/curtismercier/protocols/tree/main/git-identity)** | Multi-repo attribution — identity zones, path-based resolution, agent vs human commits |
 
 All specs: **CC BY 4.0** · Reference implementation: **Soma (MIT)**
 
