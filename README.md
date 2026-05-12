@@ -125,8 +125,6 @@ Eleven open specs for agent memory, architecture, and identity. Born from buildi
 ## `// ALSO`
 
 - **[openclaw-mods](https://github.com/curtismercier/openclaw-mods)** — Community patches for OpenClaw: per-agent compaction, context management
-- **[acpx](https://github.com/curtismercier/acpx)** — Headless CLI client for stateful Agent Client Protocol sessions
-- **[polymarket-tui](https://github.com/curtismercier/polymarket-tui)** — Copy, scalping & sniper TUI for Polymarket
 
 ---
 
