@@ -19,7 +19,11 @@ Builder of AI agent infrastructure. I design protocols and systems that let agen
 ### `// NOW`
 
 <!-- NOW:START -->
-*loading… (auto-updates from `now.json` every 6h)*
+📈 **[Soma](https://soma.gravicity.ai)** crossed **[~860 weekly downloads](https://www.npmjs.com/package/meetsoma)** on npm. Found organically — built in the open, used by people I haven't met.<br/>
+🔺 **[PRISM v0.1](https://github.com/curtismercier/prism)** shipped — one Markdown source, three projections. First protocol on the *branching-cycle* methodology (rival approaches in parallel, convergence criteria stated up front).<br/>
+🧠 **[MLX v0.1](https://github.com/curtismercier/protocols/tree/main/mlx)** graduated to spec — *Memory Lane Xtraction*, the audit-before-close discipline. What's still floating that's not on disk?<br/>
+🔁 **[PHASE v0.3 draft](https://github.com/curtismercier/protocols/blob/main/phase/v0.3-draft.md)** — meta-orchestration cycle (DO → WATCH → DECIDE → CLOSE) and delegation-owned worktrees.<br/>
+💧 **[Tincture v0.2.2](https://github.com/curtismercier/tincture-css)** — multi-axis design substrate extracted as standalone. A drop changes the whole pour.
 <!-- NOW:END -->
 
 ---
@@ -133,14 +137,30 @@ Eleven open specs for agent memory, architecture, and identity. Born from buildi
 *Auto-pulled from public GitHub activity. Refreshes every 6 hours.*
 
 <!-- HIGHLIGHTS:START -->
-*loading…*
+🔀 Opened PR [#11](https://github.com/meetsoma/community/pull/11) on `meetsoma/community` — **fix(muscle): add missing triggers: field on verification-instinct** `+4 -3` across 2 files
+
+🌿 Created branch `fix/verification-instinct-triggers` on `meetsoma/community`
 <!-- HIGHLIGHTS:END -->
 
 <details>
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
-*loading…*
+⭐ Starred [`udecode/plate`](https://github.com/udecode/plate)
+
+⭐ Starred [`willnorris/imageproxy`](https://github.com/willnorris/imageproxy)
+
+⭐ Starred [`github/spec-kit`](https://github.com/github/spec-kit)
+
+⭐ Starred [`drizo65/hermes-hevy`](https://github.com/drizo65/hermes-hevy)
+
+⭐ Starred [`TanishqCh07/gymbuddy`](https://github.com/TanishqCh07/gymbuddy)
+
+⭐ Starred [`DanielJamesTronca/SleepChartKit`](https://github.com/DanielJamesTronca/SleepChartKit)
+
+⭐ Starred [`ExerciseDB/exercisedb-api`](https://github.com/ExerciseDB/exercisedb-api)
+
+⭐ Starred [`aspain/git-sweaty`](https://github.com/aspain/git-sweaty)
 <!-- OTHER:END -->
 
 </details>
