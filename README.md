@@ -71,7 +71,7 @@ Surface-aware, multi-axis design substrate for AI-mediated theming. One mood del
 
 ## `// PROTOCOLS`
 
-Eleven open specs for agent memory, architecture, and identity. Born from building Soma, published as standalone standards. All **CC BY 4.0**.
+Twelve open specs for agent memory, architecture, and identity. Born from building Soma, published as standalone standards. All **CC BY 4.0**. Family-level milestones tagged (`family-v0.4` as of May 2026).
 
 ### Substrate
 
@@ -86,8 +86,9 @@ Eleven open specs for agent memory, architecture, and identity. Born from buildi
 | | |
 |---|---|
 | **[Breath Cycle](https://github.com/curtismercier/protocols/tree/main/breath-cycle)** v0.2 | Inhale → process → exhale → rest. Context depletion as design, not bug |
-| **[PHASE](https://github.com/curtismercier/protocols/tree/main/phase)** v0.2 *([v0.3 draft](https://github.com/curtismercier/protocols/blob/main/phase/v0.3-draft.md))* | Multi-phase work — brain reconfiguration per task, cascading refinement |
+| **[PHASE](https://github.com/curtismercier/protocols/tree/main/phase)** v0.3 | Three-tier brain configuration (T1 prompt-config, T2 phase-folder convention, T3 runtime) + meta-orchestration cycle + delegation-owned worktrees |
 | **[MLX](https://github.com/curtismercier/protocols/tree/main/mlx)** v0.1 | Memory Lane Xtraction — audit-before-close. What's still floating that's not on disk? |
+| **[MLR](https://github.com/curtismercier/protocols/tree/main/mlr)** v0.1 | Mid-session Learning Review — in-flight catch. PAUSE → NAME → FILE → RESUME when a pattern emerges during work |
 
 ### Provenance & growth
 
