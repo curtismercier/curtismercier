@@ -1,6 +1,7 @@
 [
-  { "icon": "🔀", "text": "Submitting [per-agent compaction overrides](https://github.com/openclaw/openclaw) PR to OpenClaw upstream — 38 tests, clean 5-commit branch" },
-  { "icon": "🧪", "text": "Token compression research — 80% reduction on code I/O" },
-  { "icon": "🎙️", "text": "Voice AI interfaces — speech-to-code for codebases" },
-  { "icon": "🌌", "text": "Building a constellation of AI agents that coordinate autonomously" }
+  { "icon": "📈", "text": "**[Soma](https://soma.gravicity.ai)** crossed **[~860 weekly downloads](https://www.npmjs.com/package/meetsoma)** on npm. Found organically — built in the open, used by people I haven't met." },
+  { "icon": "🔺", "text": "**[PRISM v0.1](https://github.com/curtismercier/prism)** shipped — one Markdown source, three projections. First protocol on the *branching-cycle* methodology (rival approaches in parallel, convergence criteria stated up front)." },
+  { "icon": "🧠", "text": "**[MLX v0.1](https://github.com/curtismercier/protocols/tree/main/mlx)** graduated to spec — *Memory Lane Xtraction*, the audit-before-close discipline. What's still floating that's not on disk?" },
+  { "icon": "🔁", "text": "**[PHASE v0.3 draft](https://github.com/curtismercier/protocols/blob/main/phase/v0.3-draft.md)** — meta-orchestration cycle (DO → WATCH → DECIDE → CLOSE) and delegation-owned worktrees." },
+  { "icon": "💧", "text": "**[Tincture v0.2.2](https://github.com/curtismercier/tincture-css)** — multi-axis design substrate extracted as standalone. A drop changes the whole pour." }
 ]

@@ -16,13 +16,11 @@ Builder of AI agent infrastructure. I design protocols and systems that let agen
 
 ---
 
-### `// LATELY` *(May 2026)*
+### `// NOW`
 
-- **Soma** crossed **[~860 weekly downloads](https://www.npmjs.com/package/meetsoma)** on npm. People are finding it on their own.
-- **[PRISM v0.1](https://github.com/curtismercier/prism)** — one Markdown source, three projections. Two reference renderers shipped, comparison in progress. First protocol to ride the *branching-cycle* methodology — two rival approaches developed in parallel, convergence criteria stated up front.
-- **[MLX v0.1](https://github.com/curtismercier/protocols/tree/main/mlx)** — *Memory Lane Xtraction*. The audit-before-session-close discipline that catches what's still floating in the agent's head. Graduated from practice to spec.
-- **[PHASE v0.3 draft](https://github.com/curtismercier/protocols/blob/main/phase/v0.3-draft.md)** — meta-orchestration cycle (DO → WATCH → DECIDE → CLOSE) and delegation-owned worktrees.
-- **[Tincture v0.2.2](https://github.com/curtismercier/tincture-css)** — multi-axis design substrate extracted as standalone. A drop changes the whole pour.
+<!-- NOW:START -->
+*loading… (auto-updates from `now.json` every 6h)*
+<!-- NOW:END -->
 
 ---
 
@@ -129,6 +127,25 @@ Eleven open specs for agent memory, architecture, and identity. Born from buildi
 - **[openclaw-mods](https://github.com/curtismercier/openclaw-mods)** — Community patches for OpenClaw: per-agent compaction, context management
 - **[acpx](https://github.com/curtismercier/acpx)** — Headless CLI client for stateful Agent Client Protocol sessions
 - **[polymarket-tui](https://github.com/curtismercier/polymarket-tui)** — Copy, scalping & sniper TUI for Polymarket
+
+---
+
+## `// SHIPPING`
+
+*Auto-pulled from public GitHub activity. Refreshes every 6 hours.*
+
+<!-- HIGHLIGHTS:START -->
+*loading…*
+<!-- HIGHLIGHTS:END -->
+
+<details>
+<summary><sub>other activity</sub></summary>
+
+<!-- OTHER:START -->
+*loading…*
+<!-- OTHER:END -->
+
+</details>
 
 ---
 
