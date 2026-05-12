@@ -22,7 +22,7 @@ Builder of AI agent infrastructure. I design protocols and systems that let agen
 📈 **[Soma](https://soma.gravicity.ai)** crossed **[~860 weekly downloads](https://www.npmjs.com/package/meetsoma)** on npm. Found organically — built in the open, used by people I haven't met.<br/>
 🔺 **[PRISM v0.1](https://github.com/curtismercier/prism)** shipped — one Markdown source, three projections. First protocol on the *branching-cycle* methodology (rival approaches in parallel, convergence criteria stated up front).<br/>
 🧠 **[MLX v0.1](https://github.com/curtismercier/protocols/tree/main/mlx)** graduated to spec — *Memory Lane Xtraction*, the audit-before-close discipline. What's still floating that's not on disk?<br/>
-🔁 **[PHASE v0.3 draft](https://github.com/curtismercier/protocols/blob/main/phase/v0.3-draft.md)** — meta-orchestration cycle (DO → WATCH → DECIDE → CLOSE) and delegation-owned worktrees.<br/>
+🔁 **[PHASE v0.3](https://github.com/curtismercier/protocols/tree/main/phase)** shipped as canonical — meta-orchestration cycle (DO → WATCH → DECIDE → CLOSE), delegation-owned worktrees, T1/T2/T3 tier system. **[MLR v0.1](https://github.com/curtismercier/protocols/tree/main/mlr)** specced alongside MLX as in-flight learning discipline. `family-v0.4` tag at HEAD.<br/>
 💧 **[Tincture v0.2.2](https://github.com/curtismercier/tincture-css)** — multi-axis design substrate extracted as standalone. A drop changes the whole pour.
 <!-- NOW:END -->
 
