@@ -2,7 +2,7 @@
 
 <img src="assets/header-banner.gif" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=7C9CFF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=AI+agents+that+grow+memory;AMP+%E2%80%94+Agent+Memory+Protocol;AMPS+%E2%80%94+Automations+%C2%B7+Muscles+%C2%B7+Protocols+%C2%B7+Skills;Systems+that+build+systems;An+ecosystem+with+its+own+gravity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=7C9CFF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=AI+agents+that+grow+memory;AMP+%E2%80%94+Agent+Memory+Protocol;AMPS+%E2%80%94+Automations+%C2%B7+Muscles+%C2%B7+Protocols+%C2%B7+Scripts;Systems+that+build+systems;An+ecosystem+with+its+own+gravity)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,51 +10,97 @@
 
 ### `// WHO`
 
-Builder of AI agent infrastructure. I design protocols and systems that let agents remember, orient, and grow — without databases, embeddings, or cloud services. Just files.
+Builder of AI agent infrastructure. I design protocols and systems that let agents remember, orient, and grow without databases, embeddings, or cloud services. Just files.
 
-Currently building **[Soma](https://soma.gravicity.ai)** — an AI coding agent with self-growing memory — and publishing the protocol specs behind it as open standards. **[AMP](https://github.com/curtismercier/protocols/tree/main/amp)** is the memory engine. **[AMPS](https://github.com/curtismercier/protocols/tree/main/amps)** defines what agents remember: Automations, Muscles, Protocols, Skills.
+**[Soma](https://soma.gravicity.ai)** is the agent. **[Gravicity](https://gravicity.ai)** is the ecosystem it lives in. The protocols below are the specs behind it — eleven open standards anyone can implement, born from production.
 
-**[Gravicity](https://gravicity.ai)** is the ecosystem. Soma is the first product.
+---
+
+### `// LATELY` *(May 2026)*
+
+- **Soma** crossed **[~860 weekly downloads](https://www.npmjs.com/package/meetsoma)** on npm. People are finding it on their own.
+- **[PRISM v0.1](https://github.com/curtismercier/prism)** — one Markdown source, three projections. Two reference renderers shipped, comparison in progress. First protocol to ride the *branching-cycle* methodology — two rival approaches developed in parallel, convergence criteria stated up front.
+- **[MLX v0.1](https://github.com/curtismercier/protocols/tree/main/mlx)** — *Memory Lane Xtraction*. The audit-before-session-close discipline that catches what's still floating in the agent's head. Graduated from practice to spec.
+- **[PHASE v0.3 draft](https://github.com/curtismercier/protocols/blob/main/phase/v0.3-draft.md)** — meta-orchestration cycle (DO → WATCH → DECIDE → CLOSE) and delegation-owned worktrees.
+- **[Tincture v0.2.2](https://github.com/curtismercier/tincture-css)** — multi-axis design substrate extracted as standalone. A drop changes the whole pour.
 
 ---
 
 ## `// WHAT I'M BUILDING`
 
+### 🌿 [Soma](https://soma.gravicity.ai)
+
+**AI coding agent with memory.** Built on Pi. Identity discovery, session breathing, filesystem memory, AMPS-driven behavior. The agent that grows around you.
+
+[![npm](https://img.shields.io/npm/dw/meetsoma?label=downloads&color=7C9CFF)](https://www.npmjs.com/package/meetsoma)
+[![npm version](https://img.shields.io/npm/v/meetsoma?label=version&color=BC52EE)](https://www.npmjs.com/package/meetsoma)
+[![License](https://img.shields.io/badge/license-BSL--1.1-blue)](https://github.com/meetsoma)
+
+`TypeScript` · [meetsoma](https://github.com/meetsoma)
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 [Soma](https://soma.gravicity.ai)
-**AI coding agent with memory**
+### 🔺 [PRISM](https://github.com/curtismercier/prism)
+**One source. Three projections.**
 
-Built on Pi. Identity discovery, session breathing, filesystem memory, AMPS-driven behavior. The agent that grows around you.
+A document substrate where humans, agents, and tooling read the same Markdown surfaced differently. Section-anchored edits. No whole-file rereads. Two reference renderers in the repo — a Node build-step and a browser custom element — developed in parallel as a branching-cycle and being compared empirically.
 
-`TypeScript` · `MIT` · [meetsoma](https://github.com/meetsoma)
+`Spec + Reference impls` · `CC BY 4.0` + `MIT`
 
 </td>
 <td width="50%" valign="top">
 
-### 📐 [Protocols](https://github.com/curtismercier/protocols)
-**Open specs for agent architecture**
+### 💧 [Tincture](https://github.com/curtismercier/tincture-css)
+**A drop changes the whole pour.**
 
-Six protocol specs born from building Soma — published as standalone standards anyone can implement:
+Surface-aware, multi-axis design substrate for AI-mediated theming. One mood delta shifts an entire visual identity. Tokens are matrices, not pairs — their value depends on which axes are active.
+
+`v0.2.2` · `Active` · Born from a production site that needed to mood-shift instantly
 
 </td>
 </tr>
 </table>
 
-### Protocol Specs
+---
 
-| Protocol | What It Does |
-|----------|-------------|
-| **[AMP](https://github.com/curtismercier/protocols/tree/main/amp)** | Agent Memory Protocol — filesystem-based persistent memory with heat tracking, preloads, checkpoints |
-| **[AMPS](https://github.com/curtismercier/protocols/tree/main/amps)** | Agent Memory Protocol Stack — four content types: Automations, Muscles, Protocols, Skills |
-| **[ATLAS](https://github.com/curtismercier/protocols/tree/main/atlas)** | Architecture Truth Layered Across Stacks — living system maps that stay accurate |
-| **[Breath Cycle](https://github.com/curtismercier/protocols/tree/main/breath-cycle)** | Session lifecycle: inhale → process → exhale → rest. Context depletion as design, not bug |
-| **[Identity System](https://github.com/curtismercier/protocols/tree/main/identity)** | Contextual identity discovery — agents that know who they are based on where they are |
-| **[Git Identity](https://github.com/curtismercier/protocols/tree/main/git-identity)** | Multi-repo attribution — identity zones, path-based resolution, agent vs human commits |
+## `// PROTOCOLS`
 
-All specs: **CC BY 4.0** · Reference implementation: **Soma (MIT)**
+Eleven open specs for agent memory, architecture, and identity. Born from building Soma, published as standalone standards. All **CC BY 4.0**.
+
+### Substrate
+
+| | |
+|---|---|
+| **[AMP](https://github.com/curtismercier/protocols/tree/main/amp)** v0.3 | Agent Memory Protocol — filesystem-based persistent memory with heat tracking, preloads, checkpoints |
+| **[AMPS](https://github.com/curtismercier/protocols/tree/main/amps)** v1.1 | Four content types over AMP: Automations, Muscles, Protocols, Scripts |
+| **[MAPS](https://github.com/curtismercier/protocols/tree/main/maps)** v0.1 | Navigation layer over AMPS — task-specific paths through what an agent knows |
+
+### Session lifecycle
+
+| | |
+|---|---|
+| **[Breath Cycle](https://github.com/curtismercier/protocols/tree/main/breath-cycle)** v0.2 | Inhale → process → exhale → rest. Context depletion as design, not bug |
+| **[PHASE](https://github.com/curtismercier/protocols/tree/main/phase)** v0.2 *([v0.3 draft](https://github.com/curtismercier/protocols/blob/main/phase/v0.3-draft.md))* | Multi-phase work — brain reconfiguration per task, cascading refinement |
+| **[MLX](https://github.com/curtismercier/protocols/tree/main/mlx)** v0.1 | Memory Lane Xtraction — audit-before-close. What's still floating that's not on disk? |
+
+### Provenance & growth
+
+| | |
+|---|---|
+| **[SEAMS](https://github.com/curtismercier/protocols/tree/main/seams)** v0.2 | Traceable connections between every artifact. Sessions trace time, documents trace space |
+| **[SEEDS](https://github.com/curtismercier/protocols/tree/main/seeds)** v0.2 | Drop a seed in any folder; it tells the agent how to grow it |
+| **[ATLAS](https://github.com/curtismercier/protocols/tree/main/atlas)** v0.2 | Living architecture maps. Accurate because they're the primary reference, not an afterthought |
+
+### Identity & documents
+
+| | |
+|---|---|
+| **[Identity](https://github.com/curtismercier/protocols/tree/main/identity)** v0.1 | Contextual identity discovery — agents that know who they are from where they are |
+| **[PRISM](https://github.com/curtismercier/prism)** v0.1 | Document projection substrate (separate repo, sibling spec) |
 
 ---
 
