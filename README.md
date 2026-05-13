@@ -153,8 +153,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 ⭐ Starred [`github/spec-kit`](https://github.com/github/spec-kit)
 
-⭐ Starred [`drizo65/hermes-hevy`](https://github.com/drizo65/hermes-hevy)
-
 ⭐ Starred [`TanishqCh07/gymbuddy`](https://github.com/TanishqCh07/gymbuddy)
 
 ⭐ Starred [`DanielJamesTronca/SleepChartKit`](https://github.com/DanielJamesTronca/SleepChartKit)
@@ -162,6 +160,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`ExerciseDB/exercisedb-api`](https://github.com/ExerciseDB/exercisedb-api)
 
 ⭐ Starred [`aspain/git-sweaty`](https://github.com/aspain/git-sweaty)
+
+⭐ Starred [`curtpw/nRF5x-device-reverse-engineering`](https://github.com/curtpw/nRF5x-device-reverse-engineering)
 <!-- OTHER:END -->
 
 </details>
