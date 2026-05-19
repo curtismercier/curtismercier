@@ -147,6 +147,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`Mininglamp-AI/Mano-P`](https://github.com/Mininglamp-AI/Mano-P)
+
 ⭐ Starred [`udecode/plate`](https://github.com/udecode/plate)
 
 ⭐ Starred [`willnorris/imageproxy`](https://github.com/willnorris/imageproxy)
@@ -158,10 +160,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`DanielJamesTronca/SleepChartKit`](https://github.com/DanielJamesTronca/SleepChartKit)
 
 ⭐ Starred [`ExerciseDB/exercisedb-api`](https://github.com/ExerciseDB/exercisedb-api)
-
-⭐ Starred [`aspain/git-sweaty`](https://github.com/aspain/git-sweaty)
-
-⭐ Starred [`curtpw/nRF5x-device-reverse-engineering`](https://github.com/curtpw/nRF5x-device-reverse-engineering)
 <!-- OTHER:END -->
 
 </details>
