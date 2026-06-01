@@ -154,6 +154,14 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`Mininglamp-AI/Mano-P`](https://github.com/Mininglamp-AI/Mano-P)
 
 ⭐ Starred [`udecode/plate`](https://github.com/udecode/plate)
+
+⭐ Starred [`willnorris/imageproxy`](https://github.com/willnorris/imageproxy)
+
+⭐ Starred [`github/spec-kit`](https://github.com/github/spec-kit)
+
+⭐ Starred [`TanishqCh07/gymbuddy`](https://github.com/TanishqCh07/gymbuddy)
+
+⭐ Starred [`DanielJamesTronca/SleepChartKit`](https://github.com/DanielJamesTronca/SleepChartKit)
 <!-- OTHER:END -->
 
 </details>
