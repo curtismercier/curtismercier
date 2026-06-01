@@ -147,9 +147,13 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`umami-software/umami`](https://github.com/umami-software/umami)
+
 ⭐ Starred [`stalwartlabs/stalwart`](https://github.com/stalwartlabs/stalwart)
 
 ⭐ Starred [`Mininglamp-AI/Mano-P`](https://github.com/Mininglamp-AI/Mano-P)
+
+⭐ Starred [`udecode/plate`](https://github.com/udecode/plate)
 <!-- OTHER:END -->
 
 </details>
