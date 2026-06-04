@@ -138,7 +138,7 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 *Auto-pulled from public GitHub activity. Refreshes every 6 hours.*
 
 <!-- HIGHLIGHTS:START -->
-*No major activity yet. Building in the dark.*
+🔀 Opened PR [#11](https://github.com/meetsoma/community/pull/11) on `meetsoma/community` — **fix(muscle): add missing triggers: field on verification-instinct** `+4 -3` across 2 files
 <!-- HIGHLIGHTS:END -->
 
 <details>
@@ -150,6 +150,16 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`stalwartlabs/stalwart`](https://github.com/stalwartlabs/stalwart)
 
 ⭐ Starred [`Mininglamp-AI/Mano-P`](https://github.com/Mininglamp-AI/Mano-P)
+
+⭐ Starred [`udecode/plate`](https://github.com/udecode/plate)
+
+⭐ Starred [`willnorris/imageproxy`](https://github.com/willnorris/imageproxy)
+
+⭐ Starred [`github/spec-kit`](https://github.com/github/spec-kit)
+
+⭐ Starred [`TanishqCh07/gymbuddy`](https://github.com/TanishqCh07/gymbuddy)
+
+⭐ Starred [`DanielJamesTronca/SleepChartKit`](https://github.com/DanielJamesTronca/SleepChartKit)
 <!-- OTHER:END -->
 
 </details>
