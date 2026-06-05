@@ -145,6 +145,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`krillclaw/KrillClaw`](https://github.com/krillclaw/KrillClaw)
+
 ⭐ Starred [`umami-software/umami`](https://github.com/umami-software/umami)
 
 ⭐ Starred [`stalwartlabs/stalwart`](https://github.com/stalwartlabs/stalwart)
@@ -158,8 +160,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`github/spec-kit`](https://github.com/github/spec-kit)
 
 ⭐ Starred [`TanishqCh07/gymbuddy`](https://github.com/TanishqCh07/gymbuddy)
-
-⭐ Starred [`DanielJamesTronca/SleepChartKit`](https://github.com/DanielJamesTronca/SleepChartKit)
 <!-- OTHER:END -->
 
 </details>
