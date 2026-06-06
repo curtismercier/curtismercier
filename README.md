@@ -145,6 +145,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`PixelGuys/Cubyz`](https://github.com/PixelGuys/Cubyz)
+
 ⭐ Starred [`abiosoft/colima`](https://github.com/abiosoft/colima)
 
 ⭐ Starred [`lightpanda-io/browser`](https://github.com/lightpanda-io/browser)
@@ -158,8 +160,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`Mininglamp-AI/Mano-P`](https://github.com/Mininglamp-AI/Mano-P)
 
 ⭐ Starred [`udecode/plate`](https://github.com/udecode/plate)
-
-⭐ Starred [`willnorris/imageproxy`](https://github.com/willnorris/imageproxy)
 <!-- OTHER:END -->
 
 </details>
