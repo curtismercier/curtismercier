@@ -145,6 +145,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`abiosoft/colima`](https://github.com/abiosoft/colima)
+
+⭐ Starred [`lightpanda-io/browser`](https://github.com/lightpanda-io/browser)
+
 ⭐ Starred [`krillclaw/KrillClaw`](https://github.com/krillclaw/KrillClaw)
 
 ⭐ Starred [`umami-software/umami`](https://github.com/umami-software/umami)
@@ -156,10 +160,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`udecode/plate`](https://github.com/udecode/plate)
 
 ⭐ Starred [`willnorris/imageproxy`](https://github.com/willnorris/imageproxy)
-
-⭐ Starred [`github/spec-kit`](https://github.com/github/spec-kit)
-
-⭐ Starred [`TanishqCh07/gymbuddy`](https://github.com/TanishqCh07/gymbuddy)
 <!-- OTHER:END -->
 
 </details>
