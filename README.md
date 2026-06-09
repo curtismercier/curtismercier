@@ -158,8 +158,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`stalwartlabs/stalwart`](https://github.com/stalwartlabs/stalwart)
 
 ⭐ Starred [`Mininglamp-AI/Mano-P`](https://github.com/Mininglamp-AI/Mano-P)
-
-⭐ Starred [`udecode/plate`](https://github.com/udecode/plate)
 <!-- OTHER:END -->
 
 </details>
