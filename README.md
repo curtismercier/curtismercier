@@ -138,6 +138,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 *Auto-pulled from public GitHub activity. Refreshes every 6 hours.*
 
 <!-- HIGHLIGHTS:START -->
+🔀 Opened PR [#12](https://github.com/meetsoma/community/pull/12) on `meetsoma/community` — **feat(protocols): meta-workflow cadence + breath-cycle v3.0.0 (rotation completeness)** `+15140 -1045` across 114 files
+
+🌿 Created branch `feat/meta-workflow` on `meetsoma/community`
+
 🔀 Opened PR [#11](https://github.com/meetsoma/community/pull/11) on `meetsoma/community` — **fix(muscle): add missing triggers: field on verification-instinct** `+4 -3` across 2 files
 <!-- HIGHLIGHTS:END -->
 
