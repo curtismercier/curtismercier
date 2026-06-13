@@ -151,6 +151,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`YusufB5/ASCILINE`](https://github.com/YusufB5/ASCILINE)
+
 ⭐ Starred [`agentrq/agentrq`](https://github.com/agentrq/agentrq)
 
 ⭐ Starred [`PixelGuys/Cubyz`](https://github.com/PixelGuys/Cubyz)
@@ -164,8 +166,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`umami-software/umami`](https://github.com/umami-software/umami)
 
 ⭐ Starred [`stalwartlabs/stalwart`](https://github.com/stalwartlabs/stalwart)
-
-⭐ Starred [`Mininglamp-AI/Mano-P`](https://github.com/Mininglamp-AI/Mano-P)
 <!-- OTHER:END -->
 
 </details>
