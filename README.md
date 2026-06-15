@@ -143,14 +143,18 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 🌿 Created branch `feat/meta-workflow-adoption` on `meetsoma/community`
 
 🔀 Opened PR [#12](https://github.com/meetsoma/community/pull/12) on `meetsoma/community` — **feat(protocols): meta-workflow cadence + breath-cycle v3.0.0 (rotation completeness)** `+310 -25` across 3 files
-
-🌿 Created branch `feat/meta-workflow` on `meetsoma/community`
 <!-- HIGHLIGHTS:END -->
 
 <details>
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`ChristopherKahler/skillsmith`](https://github.com/ChristopherKahler/skillsmith)
+
+🍴 Forked [`SheinRG/amazonia`](https://github.com/SheinRG/amazonia)
+
+⭐ Starred [`SheinRG/amazonia`](https://github.com/SheinRG/amazonia)
+
 ⭐ Starred [`YusufB5/ASCILINE`](https://github.com/YusufB5/ASCILINE)
 
 ⭐ Starred [`agentrq/agentrq`](https://github.com/agentrq/agentrq)
@@ -160,12 +164,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`abiosoft/colima`](https://github.com/abiosoft/colima)
 
 ⭐ Starred [`lightpanda-io/browser`](https://github.com/lightpanda-io/browser)
-
-⭐ Starred [`krillclaw/KrillClaw`](https://github.com/krillclaw/KrillClaw)
-
-⭐ Starred [`umami-software/umami`](https://github.com/umami-software/umami)
-
-⭐ Starred [`stalwartlabs/stalwart`](https://github.com/stalwartlabs/stalwart)
 <!-- OTHER:END -->
 
 </details>
