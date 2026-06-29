@@ -147,6 +147,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`Nutlope/hallmark`](https://github.com/Nutlope/hallmark)
+
+⭐ Starred [`RayFernando1337/rayfernando-skills`](https://github.com/RayFernando1337/rayfernando-skills)
+
 ⭐ Starred [`Jaimin-prajapati-ds/claude-fable-5-skill`](https://github.com/Jaimin-prajapati-ds/claude-fable-5-skill)
 
 ⭐ Starred [`DanMcInerney/architect-loop`](https://github.com/DanMcInerney/architect-loop)
@@ -158,10 +162,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`SheinRG/amazonia`](https://github.com/SheinRG/amazonia)
 
 ⭐ Starred [`YusufB5/ASCILINE`](https://github.com/YusufB5/ASCILINE)
-
-⭐ Starred [`agentrq/agentrq`](https://github.com/agentrq/agentrq)
-
-⭐ Starred [`PixelGuys/Cubyz`](https://github.com/PixelGuys/Cubyz)
 <!-- OTHER:END -->
 
 </details>
