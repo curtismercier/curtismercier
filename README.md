@@ -151,7 +151,7 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 ⭐ Starred [`RayFernando1337/rayfernando-skills`](https://github.com/RayFernando1337/rayfernando-skills)
 
-⭐ Starred [`Jaimin-prajapati-ds/claude-fable-5-skill`](https://github.com/Jaimin-prajapati-ds/claude-fable-5-skill)
+⭐ Starred [`jaimin229/claude-fable-5-skill`](https://github.com/jaimin229/claude-fable-5-skill)
 
 ⭐ Starred [`DanMcInerney/architect-loop`](https://github.com/DanMcInerney/architect-loop)
 
