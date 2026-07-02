@@ -147,6 +147,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`georgekhananaev/google-reviews-scraper-pro`](https://github.com/georgekhananaev/google-reviews-scraper-pro)
+
+⭐ Starred [`gosom/google-maps-scraper`](https://github.com/gosom/google-maps-scraper)
+
 ⭐ Starred [`Nutlope/hallmark`](https://github.com/Nutlope/hallmark)
 
 ⭐ Starred [`RayFernando1337/rayfernando-skills`](https://github.com/RayFernando1337/rayfernando-skills)
@@ -158,10 +162,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`ChristopherKahler/skillsmith`](https://github.com/ChristopherKahler/skillsmith)
 
 🍴 Forked [`SheinRG/amazonia`](https://github.com/SheinRG/amazonia)
-
-⭐ Starred [`SheinRG/amazonia`](https://github.com/SheinRG/amazonia)
-
-⭐ Starred [`YusufB5/ASCILINE`](https://github.com/YusufB5/ASCILINE)
 <!-- OTHER:END -->
 
 </details>
