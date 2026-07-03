@@ -147,6 +147,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`ChromeDevTools/chrome-devtools-mcp`](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
 ⭐ Starred [`msitarzewski/agency-agents`](https://github.com/msitarzewski/agency-agents)
 
 ⭐ Starred [`usestrix/strix`](https://github.com/usestrix/strix)
@@ -160,8 +162,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`RayFernando1337/rayfernando-skills`](https://github.com/RayFernando1337/rayfernando-skills)
 
 ⭐ Starred [`jaimin229/claude-fable-5-skill`](https://github.com/jaimin229/claude-fable-5-skill)
-
-⭐ Starred [`DanMcInerney/architect-loop`](https://github.com/DanMcInerney/architect-loop)
 <!-- OTHER:END -->
 
 </details>
