@@ -147,6 +147,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`bjgreenberg/senior-engineering-partner`](https://github.com/bjgreenberg/senior-engineering-partner)
+
+⭐ Starred [`rennf93/opus-fable-playbook`](https://github.com/rennf93/opus-fable-playbook)
+
 ⭐ Starred [`ChromeDevTools/chrome-devtools-mcp`](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 ⭐ Starred [`msitarzewski/agency-agents`](https://github.com/msitarzewski/agency-agents)
@@ -158,10 +162,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`gosom/google-maps-scraper`](https://github.com/gosom/google-maps-scraper)
 
 ⭐ Starred [`Nutlope/hallmark`](https://github.com/Nutlope/hallmark)
-
-⭐ Starred [`RayFernando1337/rayfernando-skills`](https://github.com/RayFernando1337/rayfernando-skills)
-
-⭐ Starred [`jaimin229/claude-fable-5-skill`](https://github.com/jaimin229/claude-fable-5-skill)
 <!-- OTHER:END -->
 
 </details>
