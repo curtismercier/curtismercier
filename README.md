@@ -138,6 +138,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 *Auto-pulled from public GitHub activity. Refreshes every 6 hours.*
 
 <!-- HIGHLIGHTS:START -->
+🌿 Created branch `fix/immis-livestream-partial-read` on `curtismercier/blinkpy`
+
 🔀 Opened PR [#13](https://github.com/meetsoma/community/pull/13) on `meetsoma/community` — **feat(meta-workflow): adoption checklist + starter skeleton (v1.1.0)** `+85 -5` across 1 file
 
 🔀 Opened PR [#12](https://github.com/meetsoma/community/pull/12) on `meetsoma/community` — **feat(protocols): meta-workflow cadence + breath-cycle v3.0.0 (rotation completeness)** `+310 -25` across 3 files
@@ -147,6 +149,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+🍴 Forked [`fronzbot/blinkpy`](https://github.com/fronzbot/blinkpy)
+
+⭐ Starred [`MattTW/BlinkMonitorProtocol`](https://github.com/MattTW/BlinkMonitorProtocol)
+
 ⭐ Starred [`bjgreenberg/senior-engineering-partner`](https://github.com/bjgreenberg/senior-engineering-partner)
 
 ⭐ Starred [`rennf93/opus-fable-playbook`](https://github.com/rennf93/opus-fable-playbook)
@@ -158,10 +164,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`usestrix/strix`](https://github.com/usestrix/strix)
 
 ⭐ Starred [`georgekhananaev/google-reviews-scraper-pro`](https://github.com/georgekhananaev/google-reviews-scraper-pro)
-
-⭐ Starred [`gosom/google-maps-scraper`](https://github.com/gosom/google-maps-scraper)
-
-⭐ Starred [`Nutlope/hallmark`](https://github.com/Nutlope/hallmark)
 <!-- OTHER:END -->
 
 </details>
