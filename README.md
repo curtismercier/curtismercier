@@ -149,6 +149,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`playcanvas/supersplat`](https://github.com/playcanvas/supersplat)
+
 🍴 Forked [`fronzbot/blinkpy`](https://github.com/fronzbot/blinkpy)
 
 ⭐ Starred [`MattTW/BlinkMonitorProtocol`](https://github.com/MattTW/BlinkMonitorProtocol)
@@ -162,8 +164,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`msitarzewski/agency-agents`](https://github.com/msitarzewski/agency-agents)
 
 ⭐ Starred [`usestrix/strix`](https://github.com/usestrix/strix)
-
-⭐ Starred [`georgekhananaev/google-reviews-scraper-pro`](https://github.com/georgekhananaev/google-reviews-scraper-pro)
 <!-- OTHER:END -->
 
 </details>
