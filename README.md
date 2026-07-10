@@ -141,8 +141,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 🌿 Created branch `fix/immis-livestream-partial-read` on `curtismercier/blinkpy`
 
 🔀 Opened PR [#13](https://github.com/meetsoma/community/pull/13) on `meetsoma/community` — **feat(meta-workflow): adoption checklist + starter skeleton (v1.1.0)** `+85 -5` across 1 file
-
-🔀 Opened PR [#12](https://github.com/meetsoma/community/pull/12) on `meetsoma/community` — **feat(protocols): meta-workflow cadence + breath-cycle v3.0.0 (rotation completeness)** `+310 -25` across 3 files
 <!-- HIGHLIGHTS:END -->
 
 <details>
