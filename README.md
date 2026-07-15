@@ -145,6 +145,12 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`HKUDS/Vibe-Trading`](https://github.com/HKUDS/Vibe-Trading)
+
+⭐ Starred [`virattt/ai-hedge-fund`](https://github.com/virattt/ai-hedge-fund)
+
+⭐ Starred [`mattpocock/skills`](https://github.com/mattpocock/skills)
+
 ⭐ Starred [`playcanvas/supersplat`](https://github.com/playcanvas/supersplat)
 
 🍴 Forked [`fronzbot/blinkpy`](https://github.com/fronzbot/blinkpy)
@@ -154,12 +160,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`bjgreenberg/senior-engineering-partner`](https://github.com/bjgreenberg/senior-engineering-partner)
 
 ⭐ Starred [`rennf93/opus-fable-playbook`](https://github.com/rennf93/opus-fable-playbook)
-
-⭐ Starred [`ChromeDevTools/chrome-devtools-mcp`](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-
-⭐ Starred [`msitarzewski/agency-agents`](https://github.com/msitarzewski/agency-agents)
-
-⭐ Starred [`usestrix/strix`](https://github.com/usestrix/strix)
 <!-- OTHER:END -->
 
 </details>
