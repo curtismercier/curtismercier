@@ -138,13 +138,15 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 *Auto-pulled from public GitHub activity. Refreshes every 6 hours.*
 
 <!-- HIGHLIGHTS:START -->
-🌿 Created branch `fix/immis-livestream-partial-read` on `curtismercier/blinkpy`
+*No major activity yet. Building in the dark.*
 <!-- HIGHLIGHTS:END -->
 
 <details>
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`Zarif0101/Web-Designer-OS-Skill-`](https://github.com/Zarif0101/Web-Designer-OS-Skill-)
+
 ⭐ Starred [`HKUDS/Vibe-Trading`](https://github.com/HKUDS/Vibe-Trading)
 
 ⭐ Starred [`virattt/ai-hedge-fund`](https://github.com/virattt/ai-hedge-fund)
@@ -158,8 +160,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`MattTW/BlinkMonitorProtocol`](https://github.com/MattTW/BlinkMonitorProtocol)
 
 ⭐ Starred [`bjgreenberg/senior-engineering-partner`](https://github.com/bjgreenberg/senior-engineering-partner)
-
-⭐ Starred [`rennf93/opus-fable-playbook`](https://github.com/rennf93/opus-fable-playbook)
 <!-- OTHER:END -->
 
 </details>
