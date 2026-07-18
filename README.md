@@ -145,6 +145,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`Piebald-AI/tweakcc`](https://github.com/Piebald-AI/tweakcc)
+
 ⭐ Starred [`Zarif0101/Web-Designer-OS-Skill-`](https://github.com/Zarif0101/Web-Designer-OS-Skill-)
 
 ⭐ Starred [`HKUDS/Vibe-Trading`](https://github.com/HKUDS/Vibe-Trading)
@@ -158,8 +160,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 🍴 Forked [`fronzbot/blinkpy`](https://github.com/fronzbot/blinkpy)
 
 ⭐ Starred [`MattTW/BlinkMonitorProtocol`](https://github.com/MattTW/BlinkMonitorProtocol)
-
-⭐ Starred [`bjgreenberg/senior-engineering-partner`](https://github.com/bjgreenberg/senior-engineering-partner)
 <!-- OTHER:END -->
 
 </details>
