@@ -145,6 +145,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`block/buzz`](https://github.com/block/buzz)
+
 ⭐ Starred [`SinanTufekci/agent-intern`](https://github.com/SinanTufekci/agent-intern)
 
 ⭐ Starred [`jamiepine/voicebox`](https://github.com/jamiepine/voicebox)
@@ -158,8 +160,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`mattpocock/skills`](https://github.com/mattpocock/skills)
 
 ⭐ Starred [`playcanvas/supersplat`](https://github.com/playcanvas/supersplat)
-
-🍴 Forked [`fronzbot/blinkpy`](https://github.com/fronzbot/blinkpy)
 <!-- OTHER:END -->
 
 </details>
