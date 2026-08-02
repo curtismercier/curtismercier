@@ -145,6 +145,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`qaz69s/panda-zig`](https://github.com/qaz69s/panda-zig)
+
 ⭐ Starred [`block/buzz`](https://github.com/block/buzz)
 
 ⭐ Starred [`SinanTufekci/agent-intern`](https://github.com/SinanTufekci/agent-intern)
@@ -158,8 +160,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`virattt/ai-hedge-fund`](https://github.com/virattt/ai-hedge-fund)
 
 ⭐ Starred [`mattpocock/skills`](https://github.com/mattpocock/skills)
-
-⭐ Starred [`playcanvas/supersplat`](https://github.com/playcanvas/supersplat)
 <!-- OTHER:END -->
 
 </details>
