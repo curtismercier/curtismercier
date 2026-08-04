@@ -138,7 +138,7 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 *Auto-pulled from public GitHub activity. Refreshes every 6 hours.*
 
 <!-- HIGHLIGHTS:START -->
-*No major activity yet. Building in the dark.*
+🌿 Created branch `exp/verse-onboarding` on `meetsoma/website`
 <!-- HIGHLIGHTS:END -->
 
 <details>
