@@ -145,6 +145,12 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`semantica-agi/semantica`](https://github.com/semantica-agi/semantica)
+
+⭐ Starred [`Kitsun3Sec/Pentest-Cheat-Sheets`](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets)
+
+⭐ Starred [`devanshbatham/FavFreak`](https://github.com/devanshbatham/FavFreak)
+
 ⭐ Starred [`qaz69s/panda-zig`](https://github.com/qaz69s/panda-zig)
 
 ⭐ Starred [`block/buzz`](https://github.com/block/buzz)
@@ -154,12 +160,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`jamiepine/voicebox`](https://github.com/jamiepine/voicebox)
 
 ⭐ Starred [`Piebald-AI/tweakcc`](https://github.com/Piebald-AI/tweakcc)
-
-⭐ Starred [`HKUDS/Vibe-Trading`](https://github.com/HKUDS/Vibe-Trading)
-
-⭐ Starred [`virattt/ai-hedge-fund`](https://github.com/virattt/ai-hedge-fund)
-
-⭐ Starred [`mattpocock/skills`](https://github.com/mattpocock/skills)
 <!-- OTHER:END -->
 
 </details>
