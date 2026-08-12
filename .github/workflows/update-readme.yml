@@ -74,15 +74,15 @@ jobs:
 
               for (const repo of repos) {
                 try {
+                  // listTags order is NOT chronological — it handed back a
+                  // March v0.1.0 ahead of a May family-v0.4. Pull a wider
+                  // slice, date every one, and pick the newest AFTER sorting.
                   const tags = await github.rest.repos.listTags({
-                    owner: repo.owner.login, repo: repo.name, per_page: 3
+                    owner: repo.owner.login, repo: repo.name, per_page: 10
                   });
                   for (const tag of tags.data) {
                     // backup/ and archive/ tags are bookkeeping, not shipping
                     if (/^(backup|archive)\//.test(tag.name)) continue;
-                    // One tag per repo: three point releases of the same
-                    // package crowd out every other project in the feed.
-                    if (shipped.some(s => s.repo === repo.full_name)) break;
                     const commit = await github.rest.repos.getCommit({
                       owner: repo.owner.login, repo: repo.name, ref: tag.commit.sha
                     });
@@ -98,7 +98,16 @@ jobs:
             }
 
             shipped.sort((a, b) => new Date(b.date) - new Date(a.date));
-            const shippedLines = shipped.slice(0, 5).map(s => {
+            // One entry per repo, newest wins — three point releases of the
+            // same package would otherwise crowd out every other project.
+            const seenRepo = new Set();
+            const newestPerRepo = shipped.filter(s => {
+              if (!s.repo) return true;              // npm line has no repo
+              if (seenRepo.has(s.repo)) return false;
+              seenRepo.add(s.repo);
+              return true;
+            });
+            const shippedLines = newestPerRepo.slice(0, 5).map(s => {
               const d = new Date(s.date).toISOString().slice(0, 10);
               return `${s.line} · <sub>${d}</sub>`;
             });
