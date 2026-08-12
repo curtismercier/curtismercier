@@ -28,6 +28,73 @@ jobs:
             let readme = fs.readFileSync('README.md', 'utf8');
             let updated = false;
 
+            // --- SHIPPED: release/tag feed --------------------------------
+            // WHY THIS EXISTS: the public *event* feed below only sees public
+            // activity. Most work happens in private repos, so HIGHLIGHTS went
+            // empty and printed "Building in the dark" while a wall of stars
+            // was the loudest signal on the profile. Releases are public even
+            // when the work isn't. Repos are ENUMERATED, never hardcoded, so
+            // this cannot go stale when a repo is added or renamed.
+            const shipped = [];
+
+            // npm — the package ships more often than it tags
+            try {
+              const res = await fetch('https://registry.npmjs.org/meetsoma');
+              const pkg = await res.json();
+              const latest = pkg['dist-tags'] && pkg['dist-tags'].latest;
+              if (latest && pkg.time && pkg.time[latest]) {
+                shipped.push({
+                  date: pkg.time[latest],
+                  line: `📦 Published [\`meetsoma@${latest}\`](https://www.npmjs.com/package/meetsoma) to npm`
+                });
+              }
+            } catch (e) { console.log('npm lookup failed:', e.message); }
+
+            // GitHub tags across every public, non-fork repo I own or co-own
+            const owners = [
+              { type: 'user', name: 'curtismercier' },
+              { type: 'org',  name: 'meetsoma' }
+            ];
+            for (const owner of owners) {
+              let repos = [];
+              try {
+                const r = owner.type === 'org'
+                  ? await github.rest.repos.listForOrg({ org: owner.name, per_page: 100, type: 'public' })
+                  : await github.rest.repos.listForUser({ username: owner.name, per_page: 100, type: 'owner' });
+                repos = r.data.filter(x => !x.fork && !x.private && !x.archived);
+              } catch (e) { console.log(`repo list failed for ${owner.name}:`, e.message); continue; }
+
+              for (const repo of repos) {
+                try {
+                  const tags = await github.rest.repos.listTags({
+                    owner: repo.owner.login, repo: repo.name, per_page: 3
+                  });
+                  for (const tag of tags.data) {
+                    // backup/ and archive/ tags are bookkeeping, not shipping
+                    if (/^(backup|archive)\//.test(tag.name)) continue;
+                    // One tag per repo: three point releases of the same
+                    // package crowd out every other project in the feed.
+                    if (shipped.some(s => s.repo === repo.full_name)) break;
+                    const commit = await github.rest.repos.getCommit({
+                      owner: repo.owner.login, repo: repo.name, ref: tag.commit.sha
+                    });
+                    const date = commit.data.commit.committer.date;
+                    shipped.push({
+                      date,
+                      repo: repo.full_name,
+                      line: `🏷️ Tagged [\`${tag.name}\`](https://github.com/${repo.full_name}/releases/tag/${encodeURIComponent(tag.name)}) on \`${repo.full_name}\``
+                    });
+                  }
+                } catch (e) { /* no tags, or no access — skip quietly */ }
+              }
+            }
+
+            shipped.sort((a, b) => new Date(b.date) - new Date(a.date));
+            const shippedLines = shipped.slice(0, 5).map(s => {
+              const d = new Date(s.date).toISOString().slice(0, 10);
+              return `${s.line} · <sub>${d}</sub>`;
+            });
+
             // --- RECENT ACTIVITY (two tiers) ---
             const events = await github.rest.activity.listPublicEventsForUser({
               username: 'curtismercier',
@@ -164,10 +231,15 @@ jobs:
             other.sort((a, b) => a.priority - b.priority);
             const otherLines = other.map(o => o.line);
 
-            // Build highlights block
-            const highlightsBlock = highlights.length > 0
-              ? highlights.join('\n\n')
-              : '*No major activity yet. Building in the dark.*';
+            // Build highlights block. Releases lead — they are the durable
+            // public record of shipping. Public events (PRs, new repos) fill
+            // in behind them. The block is only empty if BOTH sources fail,
+            // which is an outage, not a quiet week — so say that instead of
+            // implying nothing was built.
+            const highlightLines = [...shippedLines, ...highlights].slice(0, 6);
+            const highlightsBlock = highlightLines.length > 0
+              ? highlightLines.join('\n\n')
+              : '*Release feed unavailable — see [gravicity.ai](https://gravicity.ai).*';
 
             const hlStart = '<!-- HIGHLIGHTS:START -->';
             const hlEnd = '<!-- HIGHLIGHTS:END -->';

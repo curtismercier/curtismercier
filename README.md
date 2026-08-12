@@ -46,7 +46,7 @@ Builder of AI agent infrastructure. I design protocols and systems that let agen
 <tr>
 <td width="50%" valign="top">
 
-### 🔺 [PRISM](https://github.com/curtismercier/prism)
+### 🔺 [PRISM](https://github.com/curtismercier/prism) <sub>`// IN PROGRESS`</sub>
 **One source. Three projections.**
 
 A document substrate where humans, agents, and tooling read the same Markdown surfaced differently. Section-anchored edits. No whole-file rereads. Two reference renderers in the repo — a Node build-step and a browser custom element — developed in parallel as a branching-cycle and being compared empirically.
@@ -56,7 +56,7 @@ A document substrate where humans, agents, and tooling read the same Markdown su
 </td>
 <td width="50%" valign="top">
 
-### 💧 [Tincture](https://github.com/curtismercier/tincture-css)
+### 💧 [Tincture](https://github.com/curtismercier/tincture)
 **A drop changes the whole pour.**
 
 Surface-aware, multi-axis design substrate for AI-mediated theming. One mood delta shifts an entire visual identity. Tokens are matrices, not pairs — their value depends on which axes are active.
@@ -103,7 +103,7 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 | | |
 |---|---|
 | **[Identity](https://github.com/curtismercier/protocols/tree/main/identity)** v0.1 | Contextual identity discovery — agents that know who they are from where they are |
-| **[PRISM](https://github.com/curtismercier/prism)** v0.1 | Document projection substrate (separate repo, sibling spec) |
+| **[PRISM](https://github.com/curtismercier/prism)** v0.1 | Document projection substrate (separate repo, sibling spec) — *in progress* |
 
 ---
 
