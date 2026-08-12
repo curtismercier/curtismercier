@@ -144,9 +144,9 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 🏷️ Tagged [`v0.1.1`](https://github.com/curtismercier/prism/releases/tag/v0.1.1) on `curtismercier/prism` · <sub>2026-05-14</sub>
 
-🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
+🏷️ Tagged [`family-v0.4`](https://github.com/curtismercier/protocols/releases/tag/family-v0.4) on `curtismercier/protocols` · <sub>2026-05-12</sub>
 
-🏷️ Tagged [`v0.1.0`](https://github.com/curtismercier/protocols/releases/tag/v0.1.0) on `curtismercier/protocols` · <sub>2026-03-09</sub>
+🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
 <!-- HIGHLIGHTS:END -->
 
 <details>
