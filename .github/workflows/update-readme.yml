@@ -273,7 +273,10 @@ jobs:
             // --- NOW SECTION ---
             try {
               const nowData = JSON.parse(fs.readFileSync('now.json', 'utf8'));
-              const nowLines = nowData.map(item => `${item.icon} ${item.text}`).join('<br/>\n');
+              // Double <br/> — a single one packs the items into a wall.
+              // GitHub collapses a bare blank line inside this block, so the
+              // spacing has to be explicit markup, not whitespace.
+              const nowLines = nowData.map(item => `${item.icon} ${item.text}`).join('<br/><br/>\n');
               const nowStart = '<!-- NOW:START -->';
               const nowEnd = '<!-- NOW:END -->';
               if (readme.includes(nowStart)) {
