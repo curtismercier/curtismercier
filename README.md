@@ -19,11 +19,11 @@ Builder of AI agent infrastructure. I design protocols and systems that let agen
 ### `// NOW`
 
 <!-- NOW:START -->
-📈 **[Soma](https://soma.gravicity.ai)** crossed **[~860 weekly downloads](https://www.npmjs.com/package/meetsoma)** on npm. Found organically — built in the open, used by people I haven't met.<br/>
-🔺 **[PRISM v0.1](https://github.com/curtismercier/prism)** shipped — one Markdown source, three projections. First protocol on the *branching-cycle* methodology (rival approaches in parallel, convergence criteria stated up front).<br/>
-🧠 **[MLX v0.1](https://github.com/curtismercier/protocols/tree/main/mlx)** graduated to spec — *Memory Lane Xtraction*, the audit-before-close discipline. What's still floating that's not on disk?<br/>
-🔁 **[PHASE v0.3](https://github.com/curtismercier/protocols/tree/main/phase)** shipped as canonical — meta-orchestration cycle (DO → WATCH → DECIDE → CLOSE), delegation-owned worktrees, T1/T2/T3 tier system. **[MLR v0.1](https://github.com/curtismercier/protocols/tree/main/mlr)** specced alongside MLX as in-flight learning discipline. `family-v0.4` tag at HEAD.<br/>
-💧 **[Tincture v0.2.2](https://github.com/curtismercier/tincture-css)** — multi-axis design substrate extracted as standalone. A drop changes the whole pour.
+🔺 **[PRISM](https://github.com/curtismercier/prism)** is public — `v0.1.1`, spec + two reference renderers (a Node build-step and a browser custom element) developed in parallel as a *branching-cycle* and compared empirically. Actively in progress.<br/>
+📈 **[Soma](https://soma.gravicity.ai)** has passed **~6,800 [npm downloads](https://www.npmjs.com/package/meetsoma)** since first publish, peaking at **945/week in May 2026**. Found organically — built in the open, used by people I haven't met.<br/>
+🔁 **[Protocols](https://github.com/curtismercier/protocols)** at `family-v0.4` — Anti-Patterns and Conformance sections landed across all eleven specs. A spec you can *fail* is a spec you can implement.<br/>
+🧠 **[MLX](https://github.com/curtismercier/protocols/tree/main/mlx)** + **[MLR](https://github.com/curtismercier/protocols/tree/main/mlr)** v0.1 — the extraction/reflection pair. MLX audits before close: what's still floating that's not on disk? MLR catches it in flight.<br/>
+💧 **[Tincture v0.2.2](https://github.com/curtismercier/tincture)** — multi-axis design substrate extracted as standalone. Tokens are matrices, not pairs. A drop changes the whole pour.
 <!-- NOW:END -->
 
 ---
@@ -138,7 +138,15 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 *Auto-pulled from public GitHub activity. Refreshes every 6 hours.*
 
 <!-- HIGHLIGHTS:START -->
-*No major activity yet. Building in the dark.*
+🏷️ Tagged [`v0.42.1`](https://github.com/meetsoma/soma-beta/releases/tag/v0.42.1) on `meetsoma/soma-beta` · <sub>2026-07-31</sub>
+
+📦 Published [`meetsoma@0.31.0`](https://www.npmjs.com/package/meetsoma) to npm · <sub>2026-06-11</sub>
+
+🏷️ Tagged [`v0.1.1`](https://github.com/curtismercier/prism/releases/tag/v0.1.1) on `curtismercier/prism` · <sub>2026-05-14</sub>
+
+🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
+
+🏷️ Tagged [`v0.1.0`](https://github.com/curtismercier/protocols/releases/tag/v0.1.0) on `curtismercier/protocols` · <sub>2026-03-09</sub>
 <!-- HIGHLIGHTS:END -->
 
 <details>
