@@ -12,7 +12,7 @@
 
 Builder of AI agent infrastructure. I design protocols and systems that let agents remember, orient, and grow without databases, embeddings, or cloud services. Just files.
 
-**[Soma](https://soma.gravicity.ai)** is the agent. **[Gravicity](https://gravicity.ai)** is the ecosystem it lives in. The protocols below are the specs behind it — eleven open standards anyone can implement, born from production.
+**[Soma](https://soma.gravicity.ai)** is the agent. **[Somaverse](https://somaverse.ai)** is the ecosystem it lives in. The protocols below are the specs behind it — twelve open standards anyone can implement, born from production.
 
 ---
 
@@ -200,7 +200,7 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 <div align="center">
 
-**[soma.gravicity.ai](https://soma.gravicity.ai)** · **[gravicity.ai](https://gravicity.ai)**
+**[soma.gravicity.ai](https://soma.gravicity.ai)** · **[somaverse.ai](https://somaverse.ai)** · **[gravicity.ai](https://gravicity.ai)**
 
 <sub>Systems that build systems.</sub>
 

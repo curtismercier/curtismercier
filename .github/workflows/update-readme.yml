@@ -11,6 +11,14 @@ on:
 permissions:
   contents: write
 
+# Two runs (schedule + the push this workflow's own commit triggers) both
+# commit README.md; the loser's push is rejected non-fast-forward and the run
+# fails. Serialise instead — and still rebase below, since a human commit can
+# land mid-run.
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -297,4 +305,5 @@ jobs:
           git config --local user.name "Curtis Mercier"
           git add README.md
           git commit -m "chore: update activity feed + now section"
-          git push
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
