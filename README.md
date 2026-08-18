@@ -166,8 +166,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`block/buzz`](https://github.com/block/buzz)
 
 ⭐ Starred [`SinanTufekci/agent-intern`](https://github.com/SinanTufekci/agent-intern)
-
-⭐ Starred [`jamiepine/voicebox`](https://github.com/jamiepine/voicebox)
 <!-- OTHER:END -->
 
 </details>
