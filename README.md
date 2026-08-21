@@ -153,6 +153,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`harry0703/MoneyPrinterTurbo`](https://github.com/harry0703/MoneyPrinterTurbo)
+
 ⭐ Starred [`toeverything/AFFiNE`](https://github.com/toeverything/AFFiNE)
 
 ⭐ Starred [`semantica-agi/semantica`](https://github.com/semantica-agi/semantica)
