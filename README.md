@@ -166,8 +166,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`qaz69s/panda-zig`](https://github.com/qaz69s/panda-zig)
 
 ⭐ Starred [`block/buzz`](https://github.com/block/buzz)
-
-⭐ Starred [`SinanTufekci/agent-intern`](https://github.com/SinanTufekci/agent-intern)
 <!-- OTHER:END -->
 
 </details>
