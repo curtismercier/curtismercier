@@ -168,8 +168,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`devanshbatham/FavFreak`](https://github.com/devanshbatham/FavFreak)
 
 ⭐ Starred [`qaz69s/panda-zig`](https://github.com/qaz69s/panda-zig)
-
-⭐ Starred [`block/buzz`](https://github.com/block/buzz)
 <!-- OTHER:END -->
 
 </details>
