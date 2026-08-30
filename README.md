@@ -147,8 +147,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 🏷️ Tagged [`family-v0.4`](https://github.com/curtismercier/protocols/releases/tag/family-v0.4) on `curtismercier/protocols` · <sub>2026-05-12</sub>
 
 🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
-
-🌿 Created branch `feat/icon-pipeline` on `meetsoma/website`
 <!-- HIGHLIGHTS:END -->
 
 <details>
