@@ -155,6 +155,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`debpalash/VoiceStudio`](https://github.com/debpalash/VoiceStudio)
+
 ⭐ Starred [`warpdotdev/warp`](https://github.com/warpdotdev/warp)
 
 ⭐ Starred [`DietrichGebert/ponytail`](https://github.com/DietrichGebert/ponytail)
@@ -168,8 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`toeverything/AFFiNE`](https://github.com/toeverything/AFFiNE)
 
 ⭐ Starred [`semantica-agi/semantica`](https://github.com/semantica-agi/semantica)
-
-⭐ Starred [`Kitsun3Sec/Pentest-Cheat-Sheets`](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets)
 <!-- OTHER:END -->
 
 </details>
