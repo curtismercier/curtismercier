@@ -155,6 +155,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`sundios/SEO-Dashboard`](https://github.com/sundios/SEO-Dashboard)
+
+⭐ Starred [`Litlyx/litlyx`](https://github.com/Litlyx/litlyx)
+
 ⭐ Starred [`debpalash/VoiceStudio`](https://github.com/debpalash/VoiceStudio)
 
 ⭐ Starred [`warpdotdev/warp`](https://github.com/warpdotdev/warp)
@@ -166,10 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`Anil-matcha/Open-Generative-AI`](https://github.com/Anil-matcha/Open-Generative-AI)
 
 ⭐ Starred [`harry0703/MoneyPrinterTurbo`](https://github.com/harry0703/MoneyPrinterTurbo)
-
-⭐ Starred [`toeverything/AFFiNE`](https://github.com/toeverything/AFFiNE)
-
-⭐ Starred [`semantica-agi/semantica`](https://github.com/semantica-agi/semantica)
 <!-- OTHER:END -->
 
 </details>
