@@ -155,6 +155,12 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`firecrawl/firecrawl`](https://github.com/firecrawl/firecrawl)
+
+⭐ Starred [`xerj-org/xerj`](https://github.com/xerj-org/xerj)
+
+⭐ Starred [`meilisearch/meilisearch`](https://github.com/meilisearch/meilisearch)
+
 ⭐ Starred [`warpdotdev-demos/replatformer`](https://github.com/warpdotdev-demos/replatformer)
 
 ⭐ Starred [`sundios/SEO-Dashboard`](https://github.com/sundios/SEO-Dashboard)
@@ -164,12 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`debpalash/VoiceStudio`](https://github.com/debpalash/VoiceStudio)
 
 ⭐ Starred [`warpdotdev/warp`](https://github.com/warpdotdev/warp)
-
-⭐ Starred [`DietrichGebert/ponytail`](https://github.com/DietrichGebert/ponytail)
-
-⭐ Starred [`mvanhorn/cli-printing-press`](https://github.com/mvanhorn/cli-printing-press)
-
-⭐ Starred [`Anil-matcha/Open-Generative-AI`](https://github.com/Anil-matcha/Open-Generative-AI)
 <!-- OTHER:END -->
 
 </details>
