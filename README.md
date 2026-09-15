@@ -142,13 +142,13 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 📦 Published [`meetsoma@0.31.0`](https://www.npmjs.com/package/meetsoma) to npm · <sub>2026-06-11</sub>
 
-🏷️ Tagged [`v0.1.1`](https://github.com/curtismercier/prism/releases/tag/v0.1.1) on `curtismercier/prism` · <sub>2026-05-14</sub>
-
 🏷️ Tagged [`family-v0.4`](https://github.com/curtismercier/protocols/releases/tag/family-v0.4) on `curtismercier/protocols` · <sub>2026-05-12</sub>
 
 🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
 
 🔀 Opened PR [#23](https://github.com/meetsoma/community/pull/23) on `meetsoma/community` — **fix(muscles): micro-exhale teaches fold-before-append, not append-always** `+16 -13` across 3 files
+
+🔀 Opened PR [#22](https://github.com/meetsoma/community/pull/22) on `meetsoma/community` — **fix(ci): validate-frontmatter read only the first 40 lines — main has been red since 2026-08-14** `+26 -12` across 1 file
 <!-- HIGHLIGHTS:END -->
 
 <details>
