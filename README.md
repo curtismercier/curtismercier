@@ -155,6 +155,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`mastra-ai/mastra`](https://github.com/mastra-ai/mastra)
+
 ⭐ Starred [`firecrawl/firecrawl`](https://github.com/firecrawl/firecrawl)
 
 ⭐ Starred [`xerj-org/xerj`](https://github.com/xerj-org/xerj)
@@ -168,8 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`Litlyx/litlyx`](https://github.com/Litlyx/litlyx)
 
 ⭐ Starred [`debpalash/VoiceStudio`](https://github.com/debpalash/VoiceStudio)
-
-⭐ Starred [`warpdotdev/warp`](https://github.com/warpdotdev/warp)
 <!-- OTHER:END -->
 
 </details>
