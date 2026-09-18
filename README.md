@@ -155,21 +155,21 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
-⭐ Starred [`mastra-ai/mastra`](https://github.com/mastra-ai/mastra)
+⭐ Starred [`alacritty/alacritty`](https://github.com/alacritty/alacritty)
 
-⭐ Starred [`firecrawl/firecrawl`](https://github.com/firecrawl/firecrawl)
+⭐ Starred [`ayghri/i-have-adhd`](https://github.com/ayghri/i-have-adhd)
 
-⭐ Starred [`xerj-org/xerj`](https://github.com/xerj-org/xerj)
+⭐ Starred [`bilawalsidhu/gods-eye-view`](https://github.com/bilawalsidhu/gods-eye-view)
 
-⭐ Starred [`meilisearch/meilisearch`](https://github.com/meilisearch/meilisearch)
+⭐ Starred [`mksglu/context-mode`](https://github.com/mksglu/context-mode)
 
-⭐ Starred [`warpdotdev-demos/replatformer`](https://github.com/warpdotdev-demos/replatformer)
+⭐ Starred [`blader/humanizer`](https://github.com/blader/humanizer)
 
-⭐ Starred [`sundios/SEO-Dashboard`](https://github.com/sundios/SEO-Dashboard)
+⭐ Starred [`petergyang/no-ai-slop`](https://github.com/petergyang/no-ai-slop)
 
-⭐ Starred [`Litlyx/litlyx`](https://github.com/Litlyx/litlyx)
+⭐ Starred [`Panniantong/Agent-Reach`](https://github.com/Panniantong/Agent-Reach)
 
-⭐ Starred [`debpalash/VoiceStudio`](https://github.com/debpalash/VoiceStudio)
+⭐ Starred [`decolua/9router`](https://github.com/decolua/9router)
 <!-- OTHER:END -->
 
 </details>
