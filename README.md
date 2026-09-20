@@ -155,6 +155,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`triggerdotdev/trigger.dev`](https://github.com/triggerdotdev/trigger.dev)
+
 ⭐ Starred [`alacritty/alacritty`](https://github.com/alacritty/alacritty)
 
 ⭐ Starred [`ayghri/i-have-adhd`](https://github.com/ayghri/i-have-adhd)
@@ -168,8 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`petergyang/no-ai-slop`](https://github.com/petergyang/no-ai-slop)
 
 ⭐ Starred [`Panniantong/Agent-Reach`](https://github.com/Panniantong/Agent-Reach)
-
-⭐ Starred [`decolua/9router`](https://github.com/decolua/9router)
 <!-- OTHER:END -->
 
 </details>
