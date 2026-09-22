@@ -146,9 +146,9 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
 
-🌿 Created branch `share/s01-9d5b83-updated-is-derived` on `meetsoma/community`
-
 🔀 Opened PR [#23](https://github.com/meetsoma/community/pull/23) on `meetsoma/community` — **fix(muscles): micro-exhale teaches fold-before-append, not append-always** `+16 -13` across 3 files
+
+🔀 Opened PR [#22](https://github.com/meetsoma/community/pull/22) on `meetsoma/community` — **fix(ci): validate-frontmatter read only the first 40 lines — main has been red since 2026-08-14** `+26 -12` across 1 file
 <!-- HIGHLIGHTS:END -->
 
 <details>
