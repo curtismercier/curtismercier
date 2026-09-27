@@ -155,6 +155,14 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`antoniaci/blackbird`](https://github.com/antoniaci/blackbird)
+
+⭐ Starred [`Yvesssn/DetectDee`](https://github.com/Yvesssn/DetectDee)
+
+⭐ Starred [`SamurAIGPT/geo-checker`](https://github.com/SamurAIGPT/geo-checker)
+
+⭐ Starred [`rohitg00/ai-engineering-from-scratch`](https://github.com/rohitg00/ai-engineering-from-scratch)
+
 ⭐ Starred [`anthropics/financial-services`](https://github.com/anthropics/financial-services)
 
 ⭐ Starred [`triggerdotdev/trigger.dev`](https://github.com/triggerdotdev/trigger.dev)
@@ -162,14 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`alacritty/alacritty`](https://github.com/alacritty/alacritty)
 
 ⭐ Starred [`ayghri/i-have-adhd`](https://github.com/ayghri/i-have-adhd)
-
-⭐ Starred [`bilawalsidhu/gods-eye-view`](https://github.com/bilawalsidhu/gods-eye-view)
-
-⭐ Starred [`mksglu/context-mode`](https://github.com/mksglu/context-mode)
-
-⭐ Starred [`blader/humanizer`](https://github.com/blader/humanizer)
-
-⭐ Starred [`petergyang/no-ai-slop`](https://github.com/petergyang/no-ai-slop)
 <!-- OTHER:END -->
 
 </details>
