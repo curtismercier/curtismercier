@@ -145,8 +145,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 🏷️ Tagged [`family-v0.4`](https://github.com/curtismercier/protocols/releases/tag/family-v0.4) on `curtismercier/protocols` · <sub>2026-05-12</sub>
 
 🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
-
-🔀 Opened PR [#23](https://github.com/meetsoma/community/pull/23) on `meetsoma/community` — **fix(muscles): micro-exhale teaches fold-before-append, not append-always** `+16 -13` across 3 files
 <!-- HIGHLIGHTS:END -->
 
 <details>
