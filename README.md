@@ -146,6 +146,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
 
+🌿 Created branch `revamp/meetsoma-core` on `meetsoma/website`
+
 🌿 Created branch `feat/rotation-advise` on `meetsoma/community`
 <!-- HIGHLIGHTS:END -->
 
