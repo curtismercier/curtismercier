@@ -146,9 +146,9 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
 
-🌿 Created branch `feat/hub-index-license` on `meetsoma/community`
+🔀 Opened PR [#27](https://github.com/meetsoma/community/pull/27) on `meetsoma/community` — **tool-discipline v3.3.0: block content searches over shell profiles and .env files** `+8 -2` across 1 file
 
-🔀 Opened PR [#25](https://github.com/meetsoma/community/pull/25) on `meetsoma/community` — **License: repo default MIT; each item keeps its author's licence** `+28 -69` across 3 files
+🔀 Opened PR [#26](https://github.com/meetsoma/community/pull/26) on `meetsoma/community` — **Hub: mark 2 broken muscles legacy; document hub listing per status** `+8 -8` across 4 files
 <!-- HIGHLIGHTS:END -->
 
 <details>
