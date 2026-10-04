@@ -146,9 +146,9 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
 
-🌿 Created branch `revamp/meetsoma-core` on `meetsoma/website`
+🌿 Created branch `feat/hub-index-license` on `meetsoma/community`
 
-🌿 Created branch `feat/rotation-advise` on `meetsoma/community`
+🔀 Opened PR [#25](https://github.com/meetsoma/community/pull/25) on `meetsoma/community` — **License: repo default MIT; each item keeps its author's licence** `+28 -69` across 3 files
 <!-- HIGHLIGHTS:END -->
 
 <details>
@@ -164,12 +164,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`rohitg00/ai-engineering-from-scratch`](https://github.com/rohitg00/ai-engineering-from-scratch)
 
 ⭐ Starred [`anthropics/financial-services`](https://github.com/anthropics/financial-services)
-
-⭐ Starred [`triggerdotdev/trigger.dev`](https://github.com/triggerdotdev/trigger.dev)
-
-⭐ Starred [`alacritty/alacritty`](https://github.com/alacritty/alacritty)
-
-⭐ Starred [`ayghri/i-have-adhd`](https://github.com/ayghri/i-have-adhd)
 <!-- OTHER:END -->
 
 </details>
