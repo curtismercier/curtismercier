@@ -155,6 +155,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`JonnoB/wealthnets`](https://github.com/JonnoB/wealthnets)
+
+⭐ Starred [`GoogleChrome/CrUX`](https://github.com/GoogleChrome/CrUX)
+
 ⭐ Starred [`antoniaci/blackbird`](https://github.com/antoniaci/blackbird)
 
 ⭐ Starred [`Yvesssn/DetectDee`](https://github.com/Yvesssn/DetectDee)
@@ -166,10 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`anthropics/financial-services`](https://github.com/anthropics/financial-services)
 
 ⭐ Starred [`triggerdotdev/trigger.dev`](https://github.com/triggerdotdev/trigger.dev)
-
-⭐ Starred [`alacritty/alacritty`](https://github.com/alacritty/alacritty)
-
-⭐ Starred [`ayghri/i-have-adhd`](https://github.com/ayghri/i-have-adhd)
 <!-- OTHER:END -->
 
 </details>
