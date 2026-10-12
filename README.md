@@ -155,6 +155,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`ranxianglei/billion-context-pi`](https://github.com/ranxianglei/billion-context-pi)
+
 ⭐ Starred [`JonnoB/wealthnets`](https://github.com/JonnoB/wealthnets)
 
 ⭐ Starred [`GoogleChrome/CrUX`](https://github.com/GoogleChrome/CrUX)
@@ -168,8 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`rohitg00/ai-engineering-from-scratch`](https://github.com/rohitg00/ai-engineering-from-scratch)
 
 ⭐ Starred [`anthropics/financial-services`](https://github.com/anthropics/financial-services)
-
-⭐ Starred [`triggerdotdev/trigger.dev`](https://github.com/triggerdotdev/trigger.dev)
 <!-- OTHER:END -->
 
 </details>
