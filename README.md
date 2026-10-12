@@ -155,21 +155,21 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`seranking/seo-skills`](https://github.com/seranking/seo-skills)
+
+⭐ Starred [`addyosmani/agentic-seo`](https://github.com/addyosmani/agentic-seo)
+
+⭐ Starred [`Hainrixz/claude-webkit`](https://github.com/Hainrixz/claude-webkit)
+
+⭐ Starred [`cloudflare/cloudflare-docs`](https://github.com/cloudflare/cloudflare-docs)
+
+⭐ Starred [`morluto/rea`](https://github.com/morluto/rea)
+
 ⭐ Starred [`ranxianglei/billion-context-pi`](https://github.com/ranxianglei/billion-context-pi)
 
 ⭐ Starred [`JonnoB/wealthnets`](https://github.com/JonnoB/wealthnets)
 
 ⭐ Starred [`GoogleChrome/CrUX`](https://github.com/GoogleChrome/CrUX)
-
-⭐ Starred [`antoniaci/blackbird`](https://github.com/antoniaci/blackbird)
-
-⭐ Starred [`Yvesssn/DetectDee`](https://github.com/Yvesssn/DetectDee)
-
-⭐ Starred [`SamurAIGPT/geo-checker`](https://github.com/SamurAIGPT/geo-checker)
-
-⭐ Starred [`rohitg00/ai-engineering-from-scratch`](https://github.com/rohitg00/ai-engineering-from-scratch)
-
-⭐ Starred [`anthropics/financial-services`](https://github.com/anthropics/financial-services)
 <!-- OTHER:END -->
 
 </details>
