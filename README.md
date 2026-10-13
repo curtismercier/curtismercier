@@ -155,21 +155,21 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`NeptuneHub/AudioMuse-AI`](https://github.com/NeptuneHub/AudioMuse-AI)
+
+⭐ Starred [`earthtojake/text-to-cad`](https://github.com/earthtojake/text-to-cad)
+
+⭐ Starred [`heygen-com/hyperframes`](https://github.com/heygen-com/hyperframes)
+
+⭐ Starred [`mvschwarz/openrig`](https://github.com/mvschwarz/openrig)
+
+⭐ Starred [`tester-army/e2e`](https://github.com/tester-army/e2e)
+
 ⭐ Starred [`seranking/seo-skills`](https://github.com/seranking/seo-skills)
 
 ⭐ Starred [`addyosmani/agentic-seo`](https://github.com/addyosmani/agentic-seo)
 
 ⭐ Starred [`Hainrixz/claude-webkit`](https://github.com/Hainrixz/claude-webkit)
-
-⭐ Starred [`cloudflare/cloudflare-docs`](https://github.com/cloudflare/cloudflare-docs)
-
-⭐ Starred [`morluto/rea`](https://github.com/morluto/rea)
-
-⭐ Starred [`ranxianglei/billion-context-pi`](https://github.com/ranxianglei/billion-context-pi)
-
-⭐ Starred [`JonnoB/wealthnets`](https://github.com/JonnoB/wealthnets)
-
-⭐ Starred [`GoogleChrome/CrUX`](https://github.com/GoogleChrome/CrUX)
 <!-- OTHER:END -->
 
 </details>
