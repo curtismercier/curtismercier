@@ -155,6 +155,12 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`calesthio/OpenMontage`](https://github.com/calesthio/OpenMontage)
+
+⭐ Starred [`nginx/nginx`](https://github.com/nginx/nginx)
+
+⭐ Starred [`every-app/open-seo`](https://github.com/every-app/open-seo)
+
 ⭐ Starred [`NeptuneHub/AudioMuse-AI`](https://github.com/NeptuneHub/AudioMuse-AI)
 
 ⭐ Starred [`earthtojake/text-to-cad`](https://github.com/earthtojake/text-to-cad)
@@ -164,12 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`mvschwarz/openrig`](https://github.com/mvschwarz/openrig)
 
 ⭐ Starred [`tester-army/e2e`](https://github.com/tester-army/e2e)
-
-⭐ Starred [`seranking/seo-skills`](https://github.com/seranking/seo-skills)
-
-⭐ Starred [`addyosmani/agentic-seo`](https://github.com/addyosmani/agentic-seo)
-
-⭐ Starred [`Hainrixz/claude-webkit`](https://github.com/Hainrixz/claude-webkit)
 <!-- OTHER:END -->
 
 </details>
