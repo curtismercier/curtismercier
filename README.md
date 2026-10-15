@@ -146,15 +146,21 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
 
-🔀 Opened PR [#29](https://github.com/meetsoma/community/pull/29) on `meetsoma/community` — **chore(protocols): patch-bump the three held-cap protocols** `+3 -3` across 3 files
+🌿 Created branch `chore/protocol-versions` on `meetsoma/community`
 
-🔀 Opened PR [#28](https://github.com/meetsoma/community/pull/28) on `meetsoma/community` — **fix(protocols): name held caps only as conditionals** `+13 -13` across 3 files
+🔀 Opened PR [#29](https://github.com/meetsoma/community/pull/29) on `meetsoma/community` — **chore(protocols): patch-bump the three held-cap protocols** `+3 -3` across 3 files
 <!-- HIGHLIGHTS:END -->
 
 <details>
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`davidondrej/cloudroom-gui`](https://github.com/davidondrej/cloudroom-gui)
+
+⭐ Starred [`davidondrej/cloudroom-core`](https://github.com/davidondrej/cloudroom-core)
+
+⭐ Starred [`bilibili/Index-Translate`](https://github.com/bilibili/Index-Translate)
+
 ⭐ Starred [`calesthio/OpenMontage`](https://github.com/calesthio/OpenMontage)
 
 ⭐ Starred [`nginx/nginx`](https://github.com/nginx/nginx)
@@ -164,12 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`NeptuneHub/AudioMuse-AI`](https://github.com/NeptuneHub/AudioMuse-AI)
 
 ⭐ Starred [`earthtojake/text-to-cad`](https://github.com/earthtojake/text-to-cad)
-
-⭐ Starred [`heygen-com/hyperframes`](https://github.com/heygen-com/hyperframes)
-
-⭐ Starred [`mvschwarz/openrig`](https://github.com/mvschwarz/openrig)
-
-⭐ Starred [`tester-army/e2e`](https://github.com/tester-army/e2e)
 <!-- OTHER:END -->
 
 </details>
