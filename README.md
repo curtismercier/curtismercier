@@ -155,6 +155,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`gitroomhq/postiz-app`](https://github.com/gitroomhq/postiz-app)
+
+⭐ Starred [`micaforge-ai/micaforge-ai`](https://github.com/micaforge-ai/micaforge-ai)
+
 ⭐ Starred [`anthropics/claude-plugins-official`](https://github.com/anthropics/claude-plugins-official)
 
 ⭐ Starred [`davidondrej/cloudroom-gui`](https://github.com/davidondrej/cloudroom-gui)
@@ -166,10 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`calesthio/OpenMontage`](https://github.com/calesthio/OpenMontage)
 
 ⭐ Starred [`nginx/nginx`](https://github.com/nginx/nginx)
-
-⭐ Starred [`every-app/open-seo`](https://github.com/every-app/open-seo)
-
-⭐ Starred [`NeptuneHub/AudioMuse-AI`](https://github.com/NeptuneHub/AudioMuse-AI)
 <!-- OTHER:END -->
 
 </details>
