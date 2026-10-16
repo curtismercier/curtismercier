@@ -155,21 +155,21 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`cathrynlavery/diagram-design`](https://github.com/cathrynlavery/diagram-design)
+
+⭐ Starred [`NationalSecurityAgency/ghidra`](https://github.com/NationalSecurityAgency/ghidra)
+
+⭐ Starred [`TencentARC/Multics`](https://github.com/TencentARC/Multics)
+
+⭐ Starred [`HeyPuter/everything`](https://github.com/HeyPuter/everything)
+
+⭐ Starred [`HeyPuter/builder`](https://github.com/HeyPuter/builder)
+
 ⭐ Starred [`gitroomhq/postiz-app`](https://github.com/gitroomhq/postiz-app)
 
 ⭐ Starred [`micaforge-ai/micaforge-ai`](https://github.com/micaforge-ai/micaforge-ai)
 
 ⭐ Starred [`anthropics/claude-plugins-official`](https://github.com/anthropics/claude-plugins-official)
-
-⭐ Starred [`davidondrej/cloudroom-gui`](https://github.com/davidondrej/cloudroom-gui)
-
-⭐ Starred [`davidondrej/cloudroom-core`](https://github.com/davidondrej/cloudroom-core)
-
-⭐ Starred [`bilibili/Index-Translate`](https://github.com/bilibili/Index-Translate)
-
-⭐ Starred [`calesthio/OpenMontage`](https://github.com/calesthio/OpenMontage)
-
-⭐ Starred [`nginx/nginx`](https://github.com/nginx/nginx)
 <!-- OTHER:END -->
 
 </details>
