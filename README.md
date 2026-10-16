@@ -155,6 +155,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`avansaber/seo-monster`](https://github.com/avansaber/seo-monster)
+
+⭐ Starred [`meta-quest/agentic-tools`](https://github.com/meta-quest/agentic-tools)
+
 ⭐ Starred [`cathrynlavery/diagram-design`](https://github.com/cathrynlavery/diagram-design)
 
 ⭐ Starred [`NationalSecurityAgency/ghidra`](https://github.com/NationalSecurityAgency/ghidra)
@@ -166,10 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`HeyPuter/builder`](https://github.com/HeyPuter/builder)
 
 ⭐ Starred [`gitroomhq/postiz-app`](https://github.com/gitroomhq/postiz-app)
-
-⭐ Starred [`micaforge-ai/micaforge-ai`](https://github.com/micaforge-ai/micaforge-ai)
-
-⭐ Starred [`anthropics/claude-plugins-official`](https://github.com/anthropics/claude-plugins-official)
 <!-- OTHER:END -->
 
 </details>
