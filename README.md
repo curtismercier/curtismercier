@@ -155,6 +155,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`storytold/artcraft`](https://github.com/storytold/artcraft)
+
 ⭐ Starred [`modelscope/FunASR`](https://github.com/modelscope/FunASR)
 
 ⭐ Starred [`avansaber/seo-monster`](https://github.com/avansaber/seo-monster)
@@ -168,8 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`TencentARC/Multics`](https://github.com/TencentARC/Multics)
 
 ⭐ Starred [`HeyPuter/everything`](https://github.com/HeyPuter/everything)
-
-⭐ Starred [`HeyPuter/builder`](https://github.com/HeyPuter/builder)
 <!-- OTHER:END -->
 
 </details>
