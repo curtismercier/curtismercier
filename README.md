@@ -155,6 +155,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`modelscope/FunASR`](https://github.com/modelscope/FunASR)
+
 ⭐ Starred [`avansaber/seo-monster`](https://github.com/avansaber/seo-monster)
 
 ⭐ Starred [`meta-quest/agentic-tools`](https://github.com/meta-quest/agentic-tools)
@@ -168,8 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`HeyPuter/everything`](https://github.com/HeyPuter/everything)
 
 ⭐ Starred [`HeyPuter/builder`](https://github.com/HeyPuter/builder)
-
-⭐ Starred [`gitroomhq/postiz-app`](https://github.com/gitroomhq/postiz-app)
 <!-- OTHER:END -->
 
 </details>
