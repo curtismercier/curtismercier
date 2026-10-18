@@ -146,9 +146,9 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
 
-🌿 Created branch `chore/protocol-versions` on `meetsoma/community`
-
 🔀 Opened PR [#29](https://github.com/meetsoma/community/pull/29) on `meetsoma/community` — **chore(protocols): patch-bump the three held-cap protocols** `+3 -3` across 3 files
+
+🔀 Opened PR [#28](https://github.com/meetsoma/community/pull/28) on `meetsoma/community` — **fix(protocols): name held caps only as conditionals** `+13 -13` across 3 files
 <!-- HIGHLIGHTS:END -->
 
 <details>
