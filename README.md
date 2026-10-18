@@ -155,6 +155,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`muratcankoylan/Agent-Skills-for-Context-Engineering`](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
+
 ⭐ Starred [`storytold/artcraft`](https://github.com/storytold/artcraft)
 
 ⭐ Starred [`modelscope/FunASR`](https://github.com/modelscope/FunASR)
@@ -168,8 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`NationalSecurityAgency/ghidra`](https://github.com/NationalSecurityAgency/ghidra)
 
 ⭐ Starred [`TencentARC/Multics`](https://github.com/TencentARC/Multics)
-
-⭐ Starred [`HeyPuter/everything`](https://github.com/HeyPuter/everything)
 <!-- OTHER:END -->
 
 </details>
