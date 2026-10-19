@@ -155,6 +155,12 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`google-research/harness2`](https://github.com/google-research/harness2)
+
+⭐ Starred [`tangency-labs/solidcraft`](https://github.com/tangency-labs/solidcraft)
+
+⭐ Starred [`feder-cr/git-ai`](https://github.com/feder-cr/git-ai)
+
 ⭐ Starred [`muratcankoylan/Agent-Skills-for-Context-Engineering`](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
 
 ⭐ Starred [`storytold/artcraft`](https://github.com/storytold/artcraft)
@@ -164,12 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`avansaber/seo-monster`](https://github.com/avansaber/seo-monster)
 
 ⭐ Starred [`meta-quest/agentic-tools`](https://github.com/meta-quest/agentic-tools)
-
-⭐ Starred [`cathrynlavery/diagram-design`](https://github.com/cathrynlavery/diagram-design)
-
-⭐ Starred [`NationalSecurityAgency/ghidra`](https://github.com/NationalSecurityAgency/ghidra)
-
-⭐ Starred [`TencentARC/Multics`](https://github.com/TencentARC/Multics)
 <!-- OTHER:END -->
 
 </details>
