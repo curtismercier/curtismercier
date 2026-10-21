@@ -155,6 +155,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`SupercmoHQ/superCMO-skills`](https://github.com/SupercmoHQ/superCMO-skills)
+
 ⭐ Starred [`obsidianmd/pele`](https://github.com/obsidianmd/pele)
 
 ⭐ Starred [`google-research/harness2`](https://github.com/google-research/harness2)
@@ -168,8 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`storytold/artcraft`](https://github.com/storytold/artcraft)
 
 ⭐ Starred [`modelscope/FunASR`](https://github.com/modelscope/FunASR)
-
-⭐ Starred [`avansaber/seo-monster`](https://github.com/avansaber/seo-monster)
 <!-- OTHER:END -->
 
 </details>
