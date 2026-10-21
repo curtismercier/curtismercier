@@ -155,6 +155,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo)
+
 ⭐ Starred [`SupercmoHQ/superCMO-skills`](https://github.com/SupercmoHQ/superCMO-skills)
 
 ⭐ Starred [`obsidianmd/pele`](https://github.com/obsidianmd/pele)
@@ -168,8 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`muratcankoylan/Agent-Skills-for-Context-Engineering`](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
 
 ⭐ Starred [`storytold/artcraft`](https://github.com/storytold/artcraft)
-
-⭐ Starred [`modelscope/FunASR`](https://github.com/modelscope/FunASR)
 <!-- OTHER:END -->
 
 </details>
