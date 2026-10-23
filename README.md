@@ -155,6 +155,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`genspark-ai/genoffice`](https://github.com/genspark-ai/genoffice)
+
+⭐ Starred [`bitwarden/sdk-sm`](https://github.com/bitwarden/sdk-sm)
+
 ⭐ Starred [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo)
 
 ⭐ Starred [`SupercmoHQ/superCMO-skills`](https://github.com/SupercmoHQ/superCMO-skills)
@@ -166,10 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`tangency-labs/solidcraft`](https://github.com/tangency-labs/solidcraft)
 
 ⭐ Starred [`feder-cr/git-ai`](https://github.com/feder-cr/git-ai)
-
-⭐ Starred [`muratcankoylan/Agent-Skills-for-Context-Engineering`](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
-
-⭐ Starred [`storytold/artcraft`](https://github.com/storytold/artcraft)
 <!-- OTHER:END -->
 
 </details>
