@@ -155,6 +155,14 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`win4r/MuseAI-Skills`](https://github.com/win4r/MuseAI-Skills)
+
+⭐ Starred [`duclm1x1/Muse-Chat-MCP`](https://github.com/duclm1x1/Muse-Chat-MCP)
+
+⭐ Starred [`mateodelnorte/meta`](https://github.com/mateodelnorte/meta)
+
+⭐ Starred [`m1k1o/neko`](https://github.com/m1k1o/neko)
+
 ⭐ Starred [`genspark-ai/genoffice`](https://github.com/genspark-ai/genoffice)
 
 ⭐ Starred [`bitwarden/sdk-sm`](https://github.com/bitwarden/sdk-sm)
@@ -162,14 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo)
 
 ⭐ Starred [`SupercmoHQ/superCMO-skills`](https://github.com/SupercmoHQ/superCMO-skills)
-
-⭐ Starred [`obsidianmd/pele`](https://github.com/obsidianmd/pele)
-
-⭐ Starred [`google-research/harness2`](https://github.com/google-research/harness2)
-
-⭐ Starred [`tangency-labs/solidcraft`](https://github.com/tangency-labs/solidcraft)
-
-⭐ Starred [`feder-cr/git-ai`](https://github.com/feder-cr/git-ai)
 <!-- OTHER:END -->
 
 </details>
