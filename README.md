@@ -155,6 +155,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`pgcentralfoundation/pgrx`](https://github.com/pgcentralfoundation/pgrx)
+
+⭐ Starred [`vtil-project/VTIL-Core`](https://github.com/vtil-project/VTIL-Core)
+
 ⭐ Starred [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi)
 
 ⭐ Starred [`win4r/MuseAI-Skills`](https://github.com/win4r/MuseAI-Skills)
@@ -166,10 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`m1k1o/neko`](https://github.com/m1k1o/neko)
 
 ⭐ Starred [`genspark-ai/genoffice`](https://github.com/genspark-ai/genoffice)
-
-⭐ Starred [`bitwarden/sdk-sm`](https://github.com/bitwarden/sdk-sm)
-
-⭐ Starred [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo)
 <!-- OTHER:END -->
 
 </details>
