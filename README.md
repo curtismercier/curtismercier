@@ -155,6 +155,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi)
+
 ⭐ Starred [`win4r/MuseAI-Skills`](https://github.com/win4r/MuseAI-Skills)
 
 ⭐ Starred [`duclm1x1/Muse-Chat-MCP`](https://github.com/duclm1x1/Muse-Chat-MCP)
@@ -168,8 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`bitwarden/sdk-sm`](https://github.com/bitwarden/sdk-sm)
 
 ⭐ Starred [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo)
-
-⭐ Starred [`SupercmoHQ/superCMO-skills`](https://github.com/SupercmoHQ/superCMO-skills)
 <!-- OTHER:END -->
 
 </details>
