@@ -155,6 +155,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`meta-models/meta-model-cookbook`](https://github.com/meta-models/meta-model-cookbook)
+
 ⭐ Starred [`AgriciDaniel/pya`](https://github.com/AgriciDaniel/pya)
 
 ⭐ Starred [`pgcentralfoundation/pgrx`](https://github.com/pgcentralfoundation/pgrx)
@@ -168,8 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`duclm1x1/Muse-Chat-MCP`](https://github.com/duclm1x1/Muse-Chat-MCP)
 
 ⭐ Starred [`mateodelnorte/meta`](https://github.com/mateodelnorte/meta)
-
-⭐ Starred [`m1k1o/neko`](https://github.com/m1k1o/neko)
 <!-- OTHER:END -->
 
 </details>
