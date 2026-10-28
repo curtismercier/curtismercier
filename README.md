@@ -155,6 +155,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+🍴 Forked [`NVIDIA/OpenShell`](https://github.com/NVIDIA/OpenShell)
+
+⭐ Starred [`NVIDIA/OpenShell`](https://github.com/NVIDIA/OpenShell)
+
 ⭐ Starred [`meta-models/meta-model-cookbook`](https://github.com/meta-models/meta-model-cookbook)
 
 ⭐ Starred [`AgriciDaniel/pya`](https://github.com/AgriciDaniel/pya)
@@ -166,10 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi)
 
 ⭐ Starred [`win4r/MuseAI-Skills`](https://github.com/win4r/MuseAI-Skills)
-
-⭐ Starred [`duclm1x1/Muse-Chat-MCP`](https://github.com/duclm1x1/Muse-Chat-MCP)
-
-⭐ Starred [`mateodelnorte/meta`](https://github.com/mateodelnorte/meta)
 <!-- OTHER:END -->
 
 </details>
