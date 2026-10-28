@@ -155,6 +155,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`robonuggets/ribbon`](https://github.com/robonuggets/ribbon)
+
 🍴 Forked [`NVIDIA/OpenShell`](https://github.com/NVIDIA/OpenShell)
 
 ⭐ Starred [`NVIDIA/OpenShell`](https://github.com/NVIDIA/OpenShell)
@@ -168,8 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`vtil-project/VTIL-Core`](https://github.com/vtil-project/VTIL-Core)
 
 ⭐ Starred [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi)
-
-⭐ Starred [`win4r/MuseAI-Skills`](https://github.com/win4r/MuseAI-Skills)
 <!-- OTHER:END -->
 
 </details>
