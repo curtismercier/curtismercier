@@ -103,7 +103,7 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 | | |
 |---|---|
 | **[Identity](https://github.com/curtismercier/protocols/tree/main/identity)** v0.1 | Contextual identity discovery — agents that know who they are from where they are |
-| **[PRISM](https://github.com/meetsoma/prism-on-somaverse-tba)** v0.1 | Document projection substrate (separate repo, sibling spec) — *in progress* |
+| **[PRISM](https://github.com/meetsoma/prism-preview)** v0.1 | Document projection substrate (separate repo, sibling spec) — *in progress* |
 
 ---
 
