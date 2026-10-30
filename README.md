@@ -138,9 +138,7 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 *Auto-pulled from public GitHub activity. Refreshes every 6 hours.*
 
 <!-- HIGHLIGHTS:START -->
-🏷️ Tagged [`site/live-pre-remodel-2026-10-29`](https://github.com/meetsoma/website/releases/tag/site%2Flive-pre-remodel-2026-10-29) on `meetsoma/website` · <sub>2026-10-04</sub>
-
-🏷️ Tagged [`v0.42.1`](https://github.com/meetsoma/soma-beta/releases/tag/v0.42.1) on `meetsoma/soma-beta` · <sub>2026-07-31</sub>
+🏷️ Tagged [`v0.42.2`](https://github.com/meetsoma/soma-beta/releases/tag/v0.42.2) on `meetsoma/soma-beta` · <sub>2026-10-29</sub>
 
 📦 Published [`meetsoma@0.31.0`](https://www.npmjs.com/package/meetsoma) to npm · <sub>2026-06-11</sub>
 
@@ -149,12 +147,16 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
 
 🔀 Opened PR [#29](https://github.com/meetsoma/community/pull/29) on `meetsoma/community` — **chore(protocols): patch-bump the three held-cap protocols** `+3 -3` across 3 files
+
+🔀 Opened PR [#28](https://github.com/meetsoma/community/pull/28) on `meetsoma/community` — **fix(protocols): name held caps only as conditionals** `+13 -13` across 3 files
 <!-- HIGHLIGHTS:END -->
 
 <details>
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+🍴 Forked [`MSApps-Mobile/claude-plugins`](https://github.com/MSApps-Mobile/claude-plugins)
+
 ⭐ Starred [`robonuggets/ribbon`](https://github.com/robonuggets/ribbon)
 
 🍴 Forked [`NVIDIA/OpenShell`](https://github.com/NVIDIA/OpenShell)
@@ -168,8 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`pgcentralfoundation/pgrx`](https://github.com/pgcentralfoundation/pgrx)
 
 ⭐ Starred [`vtil-project/VTIL-Core`](https://github.com/vtil-project/VTIL-Core)
-
-⭐ Starred [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi)
 <!-- OTHER:END -->
 
 </details>
