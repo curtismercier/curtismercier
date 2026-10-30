@@ -155,6 +155,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`k6l3/osascript-dxt`](https://github.com/k6l3/osascript-dxt)
+
+⭐ Starred [`ovh/ovhcloud-cli`](https://github.com/ovh/ovhcloud-cli)
+
 🍴 Forked [`MSApps-Mobile/claude-plugins`](https://github.com/MSApps-Mobile/claude-plugins)
 
 ⭐ Starred [`robonuggets/ribbon`](https://github.com/robonuggets/ribbon)
@@ -166,10 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`meta-models/meta-model-cookbook`](https://github.com/meta-models/meta-model-cookbook)
 
 ⭐ Starred [`AgriciDaniel/pya`](https://github.com/AgriciDaniel/pya)
-
-⭐ Starred [`pgcentralfoundation/pgrx`](https://github.com/pgcentralfoundation/pgrx)
-
-⭐ Starred [`vtil-project/VTIL-Core`](https://github.com/vtil-project/VTIL-Core)
 <!-- OTHER:END -->
 
 </details>
