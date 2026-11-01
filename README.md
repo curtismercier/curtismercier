@@ -146,30 +146,30 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
 
-🌿 Created branch `mac-disk-cleaner/apfs-and-dev-tooling-findings` on `curtismercier/claude-plugins`
+🔀 Opened PR [#31](https://github.com/meetsoma/community/pull/31) on `meetsoma/community` — **ci(pr-review): executable content needs a human reader; auto-merge stays for prose** `+24 -2` across 1 file
 
-🔀 Opened PR [#29](https://github.com/meetsoma/community/pull/29) on `meetsoma/community` — **chore(protocols): patch-bump the three held-cap protocols** `+3 -3` across 3 files
+🔀 Opened PR [#30](https://github.com/meetsoma/community/pull/30) on `meetsoma/community` — **fix(tool-discipline): atomic-write gate passes temp+os.replace; grep -r gate reads grep's own argv** `+12 -5` across 1 file
 <!-- HIGHLIGHTS:END -->
 
 <details>
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
-⭐ Starred [`k6l3/osascript-dxt`](https://github.com/k6l3/osascript-dxt)
+💬 Commented on [#21](https://github.com/meetsoma/community/issues/21) in `meetsoma/community`
 
-⭐ Starred [`ovh/ovhcloud-cli`](https://github.com/ovh/ovhcloud-cli)
+💬 Commented on [#20](https://github.com/meetsoma/community/issues/20) in `meetsoma/community`
 
-🍴 Forked [`MSApps-Mobile/claude-plugins`](https://github.com/MSApps-Mobile/claude-plugins)
+💬 Commented on [#19](https://github.com/meetsoma/community/issues/19) in `meetsoma/community`
 
-⭐ Starred [`robonuggets/ribbon`](https://github.com/robonuggets/ribbon)
+💬 Commented on [#18](https://github.com/meetsoma/community/issues/18) in `meetsoma/community`
 
-🍴 Forked [`NVIDIA/OpenShell`](https://github.com/NVIDIA/OpenShell)
+💬 Commented on [#17](https://github.com/meetsoma/community/issues/17) in `meetsoma/community`
 
-⭐ Starred [`NVIDIA/OpenShell`](https://github.com/NVIDIA/OpenShell)
+💬 Commented on [#16](https://github.com/meetsoma/community/issues/16) in `meetsoma/community`
 
-⭐ Starred [`meta-models/meta-model-cookbook`](https://github.com/meta-models/meta-model-cookbook)
+💬 Commented on [#15](https://github.com/meetsoma/community/issues/15) in `meetsoma/community`
 
-⭐ Starred [`AgriciDaniel/pya`](https://github.com/AgriciDaniel/pya)
+💬 Commented on [#14](https://github.com/meetsoma/community/issues/14) in `meetsoma/community`
 <!-- OTHER:END -->
 
 </details>
