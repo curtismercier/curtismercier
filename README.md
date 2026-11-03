@@ -155,15 +155,15 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
-💬 Commented on [#21](https://github.com/meetsoma/community/issues/21) in `meetsoma/community`
+⭐ Starred [`warpdotdev/mermaid-to-svg`](https://github.com/warpdotdev/mermaid-to-svg)
+
+⭐ Starred [`mermaid-js/mermaid-cli`](https://github.com/mermaid-js/mermaid-cli)
 
 ⭐ Starred [`Jakeschincariol/replica-skill`](https://github.com/Jakeschincariol/replica-skill)
 
 🍴 Forked [`vercel-labs/agent-desktop`](https://github.com/vercel-labs/agent-desktop)
 
 ⭐ Starred [`Vishwajeetsrk/JARVIS-AI-OS`](https://github.com/Vishwajeetsrk/JARVIS-AI-OS)
-
-⭐ Starred [`MuseLinn/MusePi`](https://github.com/MuseLinn/MusePi)
 <!-- OTHER:END -->
 
 </details>
