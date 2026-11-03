@@ -146,9 +146,9 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
 
-🔀 Opened PR [#4](https://github.com/curtismercier/keel/pull/4) on `curtismercier/keel` — **feat(orchestrator): license partition + export-boundary gate** `+113 -4` across 3 files
+🌿 Created branch `builder/scrub-cli` on `curtismercier/keel`
 
-🌿 Created branch `archive/share/s01-e2736b-two-muscles` on `meetsoma/community`
+🔀 Opened PR [#8](https://github.com/curtismercier/keel/pull/8) on `curtismercier/keel` — **feat(export): --denylist/--allowlist CLI args for scrub gate** `+43 -8` across 3 files
 <!-- HIGHLIGHTS:END -->
 
 <details>
@@ -157,9 +157,9 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <!-- OTHER:START -->
 💬 Commented on [#21](https://github.com/meetsoma/community/issues/21) in `meetsoma/community`
 
-💬 Commented on [#20](https://github.com/meetsoma/community/issues/20) in `meetsoma/community`
+⭐ Starred [`Jakeschincariol/replica-skill`](https://github.com/Jakeschincariol/replica-skill)
 
-💬 Commented on [#19](https://github.com/meetsoma/community/issues/19) in `meetsoma/community`
+🍴 Forked [`vercel-labs/agent-desktop`](https://github.com/vercel-labs/agent-desktop)
 
 ⭐ Starred [`Vishwajeetsrk/JARVIS-AI-OS`](https://github.com/Vishwajeetsrk/JARVIS-AI-OS)
 
