@@ -146,9 +146,9 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
 
-🌿 Created branch `builder/scrub-cli` on `curtismercier/keel`
+🔀 Opened PR [#32](https://github.com/meetsoma/community/pull/32) on `meetsoma/community` — **fix(scrub): session ids leave the published hub, and the scanner now catches them** `+48 -28` across 13 files
 
-🔀 Opened PR [#8](https://github.com/curtismercier/keel/pull/8) on `curtismercier/keel` — **feat(export): --denylist/--allowlist CLI args for scrub gate** `+43 -8` across 3 files
+🌿 Created branch `builder/scrub-cli` on `curtismercier/keel`
 <!-- HIGHLIGHTS:END -->
 
 <details>
