@@ -146,15 +146,17 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
 
-🌿 Created branch `docs/paths-naming-guardrail` on `curtismercier/keel`
+🌿 Created branch `builder/export-tree` on `curtismercier/keel`
 
-🌿 Created branch `docs/pr-style` on `curtismercier/keel`
+🌿 Created branch `builder/export-scrub` on `curtismercier/keel`
 <!-- HIGHLIGHTS:END -->
 
 <details>
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`aThoughtfulSoul/mathaverse`](https://github.com/aThoughtfulSoul/mathaverse)
+
 ⭐ Starred [`warpdotdev/mermaid-to-svg`](https://github.com/warpdotdev/mermaid-to-svg)
 
 ⭐ Starred [`mermaid-js/mermaid-cli`](https://github.com/mermaid-js/mermaid-cli)
@@ -162,8 +164,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`Jakeschincariol/replica-skill`](https://github.com/Jakeschincariol/replica-skill)
 
 🍴 Forked [`vercel-labs/agent-desktop`](https://github.com/vercel-labs/agent-desktop)
-
-⭐ Starred [`Vishwajeetsrk/JARVIS-AI-OS`](https://github.com/Vishwajeetsrk/JARVIS-AI-OS)
 <!-- OTHER:END -->
 
 </details>
