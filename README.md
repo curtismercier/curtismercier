@@ -146,15 +146,17 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 🏷️ Tagged [`skill-forge-v1.0.0`](https://github.com/curtismercier/skill-forge/releases/tag/skill-forge-v1.0.0) on `curtismercier/skill-forge` · <sub>2026-04-17</sub>
 
-🌿 Created branch `builder/export-tree` on `curtismercier/keel`
+🔀 Opened PR [#9](https://github.com/curtismercier/keel/pull/9) on `curtismercier/keel` — **feat(export): third layer — public-process, the shown work** `+139 -29` across 8 files
 
-🌿 Created branch `builder/export-scrub` on `curtismercier/keel`
+🌿 Created branch `builder/export-tree` on `curtismercier/keel`
 <!-- HIGHLIGHTS:END -->
 
 <details>
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+💬 Commented on [#9](https://github.com/curtismercier/keel/pull/9) in `curtismercier/keel`
+
 ⭐ Starred [`aThoughtfulSoul/mathaverse`](https://github.com/aThoughtfulSoul/mathaverse)
 
 ⭐ Starred [`warpdotdev/mermaid-to-svg`](https://github.com/warpdotdev/mermaid-to-svg)
@@ -162,8 +164,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`mermaid-js/mermaid-cli`](https://github.com/mermaid-js/mermaid-cli)
 
 ⭐ Starred [`Jakeschincariol/replica-skill`](https://github.com/Jakeschincariol/replica-skill)
-
-🍴 Forked [`vercel-labs/agent-desktop`](https://github.com/vercel-labs/agent-desktop)
 <!-- OTHER:END -->
 
 </details>
