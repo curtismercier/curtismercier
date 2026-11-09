@@ -157,6 +157,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <!-- OTHER:START -->
 💬 Commented on [#9](https://github.com/curtismercier/keel/pull/9) in `curtismercier/keel`
 
+⭐ Starred [`anomalyco/sst`](https://github.com/anomalyco/sst)
+
 🍴 Forked [`harry0703/MangoDisk`](https://github.com/harry0703/MangoDisk)
 
 ⭐ Starred [`harry0703/MangoDisk`](https://github.com/harry0703/MangoDisk)
@@ -164,6 +166,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`aThoughtfulSoul/mathaverse`](https://github.com/aThoughtfulSoul/mathaverse)
 
 ⭐ Starred [`warpdotdev/mermaid-to-svg`](https://github.com/warpdotdev/mermaid-to-svg)
+
+⭐ Starred [`mermaid-js/mermaid-cli`](https://github.com/mermaid-js/mermaid-cli)
+
+⭐ Starred [`Jakeschincariol/replica-skill`](https://github.com/Jakeschincariol/replica-skill)
 <!-- OTHER:END -->
 
 </details>
