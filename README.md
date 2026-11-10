@@ -148,7 +148,7 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 
 🔀 Opened PR [#9](https://github.com/curtismercier/keel/pull/9) on `curtismercier/keel` — **feat(export): third layer — public-process, the shown work** `+139 -29` across 8 files
 
-🌿 Created branch `builder/export-tree` on `curtismercier/keel`
+🔀 Opened PR [#32](https://github.com/meetsoma/community/pull/32) on `meetsoma/community` — **fix(scrub): session ids leave the published hub, and the scanner now catches them** `+48 -28` across 13 files
 <!-- HIGHLIGHTS:END -->
 
 <details>
