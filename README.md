@@ -155,7 +155,11 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
-💬 Commented on [#9](https://github.com/curtismercier/keel/pull/9) in `curtismercier/keel`
+⭐ Starred [`Leonxlnx/taste-skill`](https://github.com/Leonxlnx/taste-skill)
+
+⭐ Starred [`Leonxlnx/earshot`](https://github.com/Leonxlnx/earshot)
+
+⭐ Starred [`Leonxlnx/cook`](https://github.com/Leonxlnx/cook)
 
 🍴 Forked [`stablyai/orca`](https://github.com/stablyai/orca)
 
@@ -166,10 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 🍴 Forked [`Dbar2/basement-ready`](https://github.com/Dbar2/basement-ready)
 
 ⭐ Starred [`anomalyco/sst`](https://github.com/anomalyco/sst)
-
-🍴 Forked [`harry0703/MangoDisk`](https://github.com/harry0703/MangoDisk)
-
-⭐ Starred [`harry0703/MangoDisk`](https://github.com/harry0703/MangoDisk)
 <!-- OTHER:END -->
 
 </details>
