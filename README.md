@@ -155,6 +155,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`Isllanrx/OnlyTCL`](https://github.com/Isllanrx/OnlyTCL)
+
 ⭐ Starred [`Leonxlnx/taste-skill`](https://github.com/Leonxlnx/taste-skill)
 
 ⭐ Starred [`Leonxlnx/earshot`](https://github.com/Leonxlnx/earshot)
@@ -168,8 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`lb2002/gatekeeper`](https://github.com/lb2002/gatekeeper)
 
 🍴 Forked [`Dbar2/basement-ready`](https://github.com/Dbar2/basement-ready)
-
-⭐ Starred [`anomalyco/sst`](https://github.com/anomalyco/sst)
 <!-- OTHER:END -->
 
 </details>
