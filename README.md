@@ -155,6 +155,10 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`pbakaus/impeccable`](https://github.com/pbakaus/impeccable)
+
+⭐ Starred [`Immortal-Protocols/lastbook`](https://github.com/Immortal-Protocols/lastbook)
+
 ⭐ Starred [`jellyfin/jellyfin-roku`](https://github.com/jellyfin/jellyfin-roku)
 
 ⭐ Starred [`JarvanSun/Starfold`](https://github.com/JarvanSun/Starfold)
@@ -166,10 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`Leonxlnx/earshot`](https://github.com/Leonxlnx/earshot)
 
 ⭐ Starred [`Leonxlnx/cook`](https://github.com/Leonxlnx/cook)
-
-🍴 Forked [`stablyai/orca`](https://github.com/stablyai/orca)
-
-🍴 Forked [`lb2002/gatekeeper`](https://github.com/lb2002/gatekeeper)
 <!-- OTHER:END -->
 
 </details>
