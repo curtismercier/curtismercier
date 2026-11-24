@@ -155,6 +155,8 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`shobhit99/SuperIsland`](https://github.com/shobhit99/SuperIsland)
+
 ⭐ Starred [`cursor/plugins`](https://github.com/cursor/plugins)
 
 ⭐ Starred [`pbakaus/impeccable`](https://github.com/pbakaus/impeccable)
@@ -168,8 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`Isllanrx/OnlyTCL`](https://github.com/Isllanrx/OnlyTCL)
 
 ⭐ Starred [`Leonxlnx/taste-skill`](https://github.com/Leonxlnx/taste-skill)
-
-⭐ Starred [`Leonxlnx/earshot`](https://github.com/Leonxlnx/earshot)
 <!-- OTHER:END -->
 
 </details>
