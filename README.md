@@ -155,6 +155,14 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 <summary><sub>other activity</sub></summary>
 
 <!-- OTHER:START -->
+⭐ Starred [`zhouxiaoka/autoclip`](https://github.com/zhouxiaoka/autoclip)
+
+⭐ Starred [`openvinotoolkit/openvino`](https://github.com/openvinotoolkit/openvino)
+
+⭐ Starred [`elementalsouls/Claude-BugHunter`](https://github.com/elementalsouls/Claude-BugHunter)
+
+⭐ Starred [`HKUDS/CLI-Anything`](https://github.com/HKUDS/CLI-Anything)
+
 ⭐ Starred [`shobhit99/SuperIsland`](https://github.com/shobhit99/SuperIsland)
 
 ⭐ Starred [`cursor/plugins`](https://github.com/cursor/plugins)
@@ -162,14 +170,6 @@ Twelve open specs for agent memory, architecture, and identity. Born from buildi
 ⭐ Starred [`pbakaus/impeccable`](https://github.com/pbakaus/impeccable)
 
 ⭐ Starred [`Immortal-Protocols/lastbook`](https://github.com/Immortal-Protocols/lastbook)
-
-⭐ Starred [`jellyfin/jellyfin-roku`](https://github.com/jellyfin/jellyfin-roku)
-
-⭐ Starred [`JarvanSun/Starfold`](https://github.com/JarvanSun/Starfold)
-
-⭐ Starred [`Isllanrx/OnlyTCL`](https://github.com/Isllanrx/OnlyTCL)
-
-⭐ Starred [`Leonxlnx/taste-skill`](https://github.com/Leonxlnx/taste-skill)
 <!-- OTHER:END -->
 
 </details>
